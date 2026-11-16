@@ -1,9 +1,9 @@
 {
   "id": "9pyaq4pbnt",
   "name": {
-    "tr": "Terimler ve sorular",
-    "en": "Terms and questions",
-    "ar": "المصطلحات والأسئلة"
+    "tr": "Sözlük",
+    "en": "Glossary",
+    "ar": "المصطلحات"
   },
   "description": {
     "tr": "Merak edilenler ve kısa yanıtlar.",
@@ -31,10 +31,10 @@
   "url": "",
   "text": {},
   "title": {
-    "tr": "Terimler ve sorular",
-    "en": "Terms and questions",
-    "ar": "المصطلحات والأسئلة"
+    "tr": "Sözlük",
+    "en": "Glossary",
+    "ar": "المصطلحات"
   },
   "date": "2026-11-16T11:05:13.751Z",
-  "update": "2026-11-16T11:14:57.577Z"
+  "update": "2026-11-16T13:37:37.080Z"
 }
