@@ -1,0 +1,29 @@
+{
+  "name": "Defne Hukuk",
+  "short_name": "Defne Hukuk",
+  "description": "Defne Hukuk: aile, miras ve gayrimenkul hukukunda bilgilendirme ve ön görüşme. Demo site; içerik kurgusaldır.",
+  "start_url": "/tr/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#6B2D3A",
+  "lang": "tr",
+  "icons": [
+    {
+      "src": "/img/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/icon.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

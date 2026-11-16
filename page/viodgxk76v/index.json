@@ -1,0 +1,39 @@
+{
+  "id": "viodgxk76v",
+  "name": {
+    "tr": "Ön görüşme",
+    "en": "Consultation",
+    "ar": "استشارة أولية"
+  },
+  "description": {
+    "tr": "Ön görüşme talep formu (demo).",
+    "en": "Consultation request form (demo).",
+    "ar": "نموذج طلب استشارة (تجريبي)."
+  },
+  "keyword": {
+    "tr": "teklif",
+    "en": "quote",
+    "ar": "عرض سعر"
+  },
+  "path": "teklif-al",
+  "icon": "request_quote",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "smosox"
+    ],
+    "footer": []
+  },
+  "index": 4,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Ön görüşme",
+    "en": "Consultation",
+    "ar": "استشارة أولية"
+  },
+  "date": "2026-11-16T11:05:13.756Z",
+  "update": "2026-11-16T11:14:57.580Z"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "9pyaq4pbnt",
+  "name": {
+    "tr": "Terimler ve sorular",
+    "en": "Terms and questions",
+    "ar": "المصطلحات والأسئلة"
+  },
+  "description": {
+    "tr": "Merak edilenler ve kısa yanıtlar.",
+    "en": "Common questions and short answers.",
+    "ar": "أسئلة متكررة وإجابات موجزة."
+  },
+  "keyword": {
+    "tr": "sss, soru cevap",
+    "en": "faq, questions",
+    "ar": "أسئلة وأجوبة"
+  },
+  "path": "sorular",
+  "icon": "help",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "hnbpuz",
+      "nf7pir"
+    ],
+    "footer": []
+  },
+  "index": 3,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Terimler ve sorular",
+    "en": "Terms and questions",
+    "ar": "المصطلحات والأسئلة"
+  },
+  "date": "2026-11-16T11:05:13.751Z",
+  "update": "2026-11-16T11:14:57.577Z"
+}
