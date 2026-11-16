@@ -1,0 +1,68 @@
+<section class="modulex-tanitim-dosya{{fbsinif}}" {{fbetiket}}>
+  <div class="modulex-tanitim-dosya-ic">
+    {{fbbas}}
+    {{fbgovde}}
+  </div>
+</section>
+
+<style>
+  /* tanitim-dosya — Bölüm bir kurum dosyası metaforuyla sunulur (sekme + klasör gövdesi); tanıtım kurumsal bir evrak ciddiyeti taşır. */
+  .modulex-tanitim-dosya { box-sizing: border-box; width: 100%; padding: --bosluk-- 20px; background: --bg--; color: --text--; font-size: 1rem; line-height: 1.6; font-family: var(--mx-font-sans, inherit); overflow-wrap: break-word; }
+  .modulex-tanitim-dosya *, .modulex-tanitim-dosya *::before, .modulex-tanitim-dosya *::after { box-sizing: border-box; }
+  /* ham/css.css «* { font-size: 14px }» kalıtımı keser — modül içinde boyut üstten gelsin (ikon yazı tipi hariç) */
+  .modulex-tanitim-dosya :where(*:not(.material-symbols-outlined)) { font-size: inherit; }
+  /* aynı «*» kuralı font-weight 400 · line-height 1.2 · font-family de basar — modül içinde kalıtım */
+  .modulex-tanitim-dosya :where(*:not(.material-symbols-outlined)) { font-weight: inherit; line-height: inherit; font-family: inherit; }
+  .modulex-tanitim-dosya :where(h2, h3, h4, p, ul, ol, li, figure, blockquote, dl, dd) { margin: 0; }
+  .modulex-tanitim-dosya :where(ul, ol) { padding: 0; list-style: none; }
+  .modulex-tanitim-dosya img { display: block; max-width: 100%; }
+  /* <img width height> öznitelik yüksekliği CSS aspect-ratio'yu ezer — sıfır özgüllükle auto (modül sınıfının height'ı yine kazanır) */
+  :where(.modulex-tanitim-dosya) img { height: auto; }
+  .modulex-tanitim-dosya [hidden] { display: none !important; }
+  .modulex-tanitim-dosya :where(a, button, summary, [data-cevir]) { cursor: pointer; }
+  .modulex-tanitim-dosya :where(a, button, summary, [tabindex]):focus-visible { outline: 3px solid --accent--; outline-offset: 3px; }
+  .modulex-tanitim-dosya-ic { max-width: --max--; margin-inline: auto; }
+  .modulex-tanitim-dosya-bas { display: grid; gap: 12px; margin-block-end: clamp(32px, 4vw, 52px); }
+  .modulex-tanitim-dosya--bassiz .modulex-tanitim-dosya-bas { display: none; }
+  .modulex-tanitim-dosya-ust { color: --accentInk--; font-size: 0.8rem; font-weight: 700; letter-spacing: 0.14em; text-transform: uppercase; }
+  .modulex-tanitim-dosya-baslik { font-family: var(--mx-font-heading, inherit); font-size: clamp(1.8rem, 3.4vw, 2.8rem); font-weight: 750; letter-spacing: -0.025em; line-height: 1.1; }
+  .modulex-tanitim-dosya-metin { color: --muted--; font-size: 1.05rem; line-height: 1.7; }
+  .modulex-tanitim-dosya-cta { display: flex; flex-wrap: wrap; gap: 12px; margin-block-start: 8px; }
+  .modulex-tanitim-dosya-dugme { display: inline-flex; align-items: center; gap: 8px; min-height: 48px; padding: 12px 22px; border: 2px solid --accent--; border-radius: 999px; background: --accent--; color: --accentText--; font-weight: 700; text-decoration: none; transition: transform 0.25s ease, background 0.25s ease, color 0.25s ease; }
+  .modulex-tanitim-dosya-dugme:hover { transform: translateY(-2px); }
+  .modulex-tanitim-dosya-dugme--ikincil { background: transparent; color: --text--; border-color: --cizgi--; }
+  .modulex-tanitim-dosya-dugme--ikincil:hover { border-color: --accent--; }
+  .modulex-tanitim-dosya-dugme .material-symbols-outlined { font-size: 20px; }
+
+  .modulex-tanitim-dosya-klasor { position: relative; display: grid; justify-items: start; }
+  .modulex-tanitim-dosya-dil { position: relative; z-index: 1; min-width: 180px; margin-inline-start: clamp(16px, 4vw, 40px); padding: 10px 26px 8px; border-radius: 14px 14px 0 0; background-color: --kartBg--; color: --accentInk--; font-size: 0.8rem; font-weight: 800; letter-spacing: 0.14em; text-transform: uppercase; }
+  .modulex-tanitim-dosya-govde { display: grid; gap: clamp(24px, 4vw, 40px); width: 100%; padding: clamp(24px, 5vw, 56px); border-radius: --yuvarlak--; background-color: --kartBg--; box-shadow: 0 30px 50px -40px color-mix(in srgb, --text-- 55%, transparent); }
+  .modulex-tanitim-dosya-ust2 { display: grid; grid-template-columns: minmax(0, 1.2fr) minmax(0, 0.8fr); gap: clamp(24px, 5vw, 64px); align-items: center; }
+  .modulex-tanitim-dosya-ust2--tek { grid-template-columns: minmax(0, 1fr); }
+  .modulex-tanitim-dosya-yazi { display: grid; gap: 16px; }
+  .modulex-tanitim-dosya-gorsel { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: calc(--yuvarlak-- * 0.6); transform: rotate(1.5deg); transition: transform 0.4s ease; }
+  .modulex-tanitim-dosya-govde:hover .modulex-tanitim-dosya-gorsel { transform: rotate(0deg); }
+  .modulex-tanitim-dosya-maddeler { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 220px), 1fr)); gap: 0; padding-block-start: 8px; border-block-start: 2px solid --cizgi--; }
+  .modulex-tanitim-dosya-madde { display: flex; gap: 12px; padding: 18px 18px 6px 0; }
+  .modulex-tanitim-dosya-madde:dir(rtl) { padding: 18px 0 6px 18px; }
+  .modulex-tanitim-dosya-madde + .modulex-tanitim-dosya-madde { padding-inline-start: 18px; border-inline-start: 1px solid --cizgi--; }
+  .modulex-tanitim-dosya-mikon { flex: none; color: --accentInk--; font-size: 24px; }
+  @media (max-width: 768px) {
+    .modulex-tanitim-dosya-ust2 { grid-template-columns: minmax(0, 1fr); }
+    .modulex-tanitim-dosya-madde + .modulex-tanitim-dosya-madde { padding-inline-start: 0; border-inline-start: 0; border-block-start: 1px solid --cizgi--; }
+    .modulex-tanitim-dosya-gorsel { transform: none; }
+  }
+  .modulex-tanitim-dosya-bag { color: inherit; text-decoration: none; }
+  .modulex-tanitim-dosya-bag:hover { text-decoration: underline; text-underline-offset: 4px; }
+  .modulex-tanitim-dosya-mbaslik { font-size: 1.05rem; font-weight: 700; }
+  .modulex-tanitim-dosya-mmetin { color: --muted--; font-size: 0.95rem; }
+
+  :is([lang="ar"], [lang="fa"], [lang="he"], [lang="ur"]) .modulex-tanitim-dosya :is(.modulex-tanitim-dosya-baslik, .modulex-tanitim-dosya-ust, h3, h4, strong) { letter-spacing: 0; }
+  :is([lang="ar"], [lang="fa"], [lang="he"], [lang="ur"]) .modulex-tanitim-dosya-baslik { line-height: 1.35; }
+  @media (max-width: 768px) {
+    .modulex-tanitim-dosya { padding-inline: 16px; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .modulex-tanitim-dosya *, .modulex-tanitim-dosya *::before, .modulex-tanitim-dosya *::after { animation: none !important; transition: none !important; }
+  }
+</style>

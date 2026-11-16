@@ -1,0 +1,322 @@
+<footer class="site-footer">
+  <div class="modulex-footer-container">
+    <div class="modulex-footer-top">
+      <div class="modulex-footer-contact">
+        <div class="modulex-footer-contact-icon">
+          <i class="material-symbols-outlined">headphones</i>
+        </div>
+        <div class="modulex-footer-contact-info">
+          <p class="modulex-contact-label">{{callLabel}}</p>
+          <p class="modulex-contact-number">{{phone}}</p>
+        </div>
+      </div>
+
+      <div class="modulex-footer-social">
+        <p class="modulex-footer-label">{{followLabel}}</p>
+        <div class="modulex-footer-social-icons">
+          <a href="https://facebook.com" target="_blank">
+            <img src="/img/v6dc3q/facebook-white.png" alt="Facebook" />
+          </a>
+          <a href="https://instagram.com" target="_blank">
+            <img src="/img/v6dc3q/instagram-white.png" alt="Instagram" />
+          </a>
+          <a href="https://twitter.com" target="_blank">
+            <img src="/img/v6dc3q/twitter-white.png" alt="Twitter" />
+          </a>
+          <a href="https://linkedin.com" target="_blank">
+            <img src="/img/v6dc3q/linkedin-white.png" alt="LinkedIn" />
+          </a>
+        </div>
+      </div>
+
+      <div class="modulex-footer-payment">
+        <img src="/img/v6dc3q/odeme-sistemi-2.png" alt="{{paymentAlt}}" />
+      </div>
+    </div>
+
+    <div class="modulex-footer-columns">
+      <div class="modulex-footer-col">
+        <h4>{{addressTitle}}</h4>
+        <p>{{address}}</p>
+        <p class="modulex-email">{{email}}</p>
+      </div>
+      <div class="modulex-footer-col">
+        <h4>{{quickTitle}}</h4>
+        <ul>
+          {{html}}
+        </ul>
+      </div>
+      <div class="modulex-footer-col">
+        <h4>{{accountTitle}}</h4>
+        <ul>
+          {{accountlinks}}
+        </ul>
+      </div>
+      <div class="modulex-footer-col">
+        <h4>{{categoriesTitle}}</h4>
+        <ul>
+          {{categorylinks}}
+        </ul>
+      </div>
+      <div class="modulex-footer-col">
+        <h4>{{newsletterTitle}}</h4>
+        <p>{{newsletterText}}</p>
+        <div class="modulex-subscribe-box">
+          <input type="email" placeholder="{{emailPlaceholder}}" />
+          <button><i class="material-symbols-outlined">send</i></button>
+        </div>
+      </div>
+    </div>
+
+    <div class="modulex-footer-bottom">
+      <span class="modulex-footer-bottom-left"
+        >Copyright © {{year}} <strong>{{web-name}}</strong>. {{rightsText}}</span
+      >
+      <span class="modulex-footer-bottom-right">
+        {{langbar}}
+        {{madeByHtml}}
+      </span>
+    </div>
+  </div>
+</footer>
+
+<style>
+  .site-footer {
+    background-color: #238b23;
+    color: #f0f0f0;
+    padding: 40px 0 20px;
+    font-family: var(--mx-font-sans, Rubik, sans-serif);
+    border-top: 8px solid #cd9624;
+  }
+
+  .modulex-footer-container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 0 20px;
+  }
+
+  .modulex-footer-top {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    gap: 30px;
+    margin-bottom: 40px;
+  }
+
+  .modulex-footer-contact {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+  }
+
+  .modulex-footer-contact-icon i {
+    font-size: 65px;
+    color: #fff;
+  }
+
+  .modulex-contact-label {
+    font-size: 15px;
+    margin: 0;
+    color: #ddd;
+  }
+
+  .modulex-contact-number {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 0;
+    color: #fff;
+  }
+
+  .modulex-footer-social {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+  }
+
+  .modulex-footer-social .modulex-footer-label {
+    font-size: 15px;
+    color: #fff;
+    margin: 0;
+  }
+
+  .modulex-footer-social-icons {
+    display: flex;
+    gap: 10px;
+  }
+
+  .modulex-footer-social-icons a img {
+    width: 32px;
+    height: 32px;
+  }
+
+  .modulex-footer-social-icons a:hover img {
+    filter: brightness(0) saturate(100%) invert(67%) sepia(77%) saturate(748%)
+      hue-rotate(2deg) brightness(97%) contrast(101%);
+  }
+
+  .modulex-footer-payment img {
+    margin-top: 0;
+    max-height: 32px;
+    object-fit: contain;
+  }
+
+  .modulex-footer-columns {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 30px;
+    margin-top: 20px;
+    color: #ddd;
+  }
+
+  .modulex-footer-col h4 {
+    color: #fff;
+    font-size: 15px;
+    margin-bottom: 12px;
+    font-weight: 700;
+  }
+
+  .modulex-footer-col p,
+  .modulex-footer-col li a {
+    font-size: 14px;
+    color: #ddd;
+    margin-bottom: 8px;
+    text-decoration: none !important;
+    transition: color 0.3s ease;
+  }
+
+  .modulex-footer-col li {
+    list-style: none;
+    padding-bottom: 10px;
+  }
+
+  .modulex-footer-col a:hover,
+  .modulex-footer-col .modulex-email:hover {
+    color: #fff;
+    text-decoration: underline;
+  }
+
+  .modulex-footer-col .modulex-email {
+    margin-top: 12px;
+    border-bottom: 1px solid #fff;
+    cursor: pointer;
+    display: inline-block;
+  }
+
+  .modulex-subscribe-box {
+    display: flex;
+    margin-top: 10px;
+  }
+
+  .modulex-subscribe-box input {
+    flex: 1;
+    padding: 8px 12px;
+    border: none;
+    border-radius: 4px 0 0 4px;
+    outline: none;
+  }
+
+  .modulex-subscribe-box button {
+    padding: 0 12px;
+    background: #cd9624;
+    border: none;
+    border-radius: 0 4px 4px 0;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+  }
+
+  .modulex-subscribe-box button i {
+    font-size: 20px;
+    color: #fff;
+  }
+
+  .modulex-footer-bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: left;
+    margin-top: 40px;
+    border-top: 1px solid #ddd;
+    padding-top: 14px;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #ddd;
+    font-size: 13px;
+  }
+
+  .modulex-footer-bottom-left {
+    flex: 1;
+    text-align: left;
+  }
+
+  .modulex-footer-bottom-right {
+    flex: 1;
+    text-align: right;
+    white-space: nowrap;
+  }
+
+  .modulex-footer-bottom-left strong,
+  .modulex-footer-bottom-right strong {
+    color: #fff;
+    font-weight: 700;
+  }
+
+  @media (max-width: 768px) {
+    .modulex-footer-top {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+
+    .modulex-footer-columns {
+      grid-template-columns: 1fr 1fr;
+    }
+
+    .modulex-subscribe-box {
+      flex-direction: column;
+    }
+
+    .modulex-subscribe-box input,
+    .modulex-subscribe-box button {
+      width: 100%;
+      border-radius: 4px;
+      margin-bottom: 6px;
+    }
+
+    .modulex-subscribe-box button {
+      justify-content: center;
+    }
+
+    .modulex-footer-bottom {
+      flex-direction: column;
+      gap: 8px;
+      text-align: center;
+    }
+
+    .modulex-footer-bottom-left,
+    .modulex-footer-bottom-right {
+      flex: unset;
+      text-align: center;
+      white-space: normal;
+    }
+  }
+
+  /* W2: mobil tasma kontrolu */
+  @media (max-width: 768px) {
+    [class*="modulex"] {
+      max-width: 100%;
+      box-sizing: border-box;
+    }
+  }
+
+  /* W2: erisilebilirlik — animasyon kapatma */
+  @media (prefers-reduced-motion: reduce) {
+    [class*="modulex"],
+    [class*="modulex"] * {
+      animation: none !important;
+      transition: none !important;
+    }
+  }
+</style>

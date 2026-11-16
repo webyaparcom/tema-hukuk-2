@@ -1,0 +1,163 @@
+{
+  "data": [
+    {
+      "id": "oukzgssg7z",
+      "name": {
+        "tr": "Çalışma alanları",
+        "en": "Practice areas",
+        "ar": "مجالات العمل"
+      },
+      "description": {
+        "tr": "Her dosya kendi koşullarıyla değerlendirilir; aşağıdaki başlıklar bilgilendirme amaçlıdır.",
+        "en": "Each matter is assessed on its own facts; the headings below are for information only.",
+        "ar": "يُقيَّم كل ملف وفق ظروفه؛ العناوين أدناه لأغراض إعلامية فقط."
+      },
+      "path": "hizmetler",
+      "icon": "work",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "0xctpv",
+          "nf7pir"
+        ],
+        "footer": []
+      },
+      "index": 0
+    },
+    {
+      "name": {
+        "tr": "Hakkımızda",
+        "en": "About us",
+        "ar": "من نحن"
+      },
+      "status": "play",
+      "id": "hakkimizda",
+      "path": "hakkimizda",
+      "category": "",
+      "url": "",
+      "index": 1,
+      "icon": "info",
+      "desing": {
+        "header": [],
+        "body": [
+          "zh5lyy",
+          "3k5xut"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Aile, miras ve gayrimenkul hukuku; bilgilendirme amaçlıdır.",
+        "en": "Family, inheritance and property law; for information only.",
+        "ar": "قانون الأسرة والميراث والعقارات؛ لأغراض إعلامية فقط."
+      }
+    },
+    {
+      "id": "99b2wchvm2",
+      "name": {
+        "tr": "Avukatlarımız",
+        "en": "Our lawyers",
+        "ar": "محامونا"
+      },
+      "description": {
+        "tr": "Sizi karşılayan çalışanlarımız.",
+        "en": "The staff who welcomes you.",
+        "ar": "الموظفون الذين يستقبلونكم."
+      },
+      "path": "ekip",
+      "icon": "groups",
+      "category": "hakkimizda",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "jobb6q"
+        ],
+        "footer": []
+      },
+      "index": 2
+    },
+    {
+      "id": "9pyaq4pbnt",
+      "name": {
+        "tr": "Terimler ve sorular",
+        "en": "Terms and questions",
+        "ar": "المصطلحات والأسئلة"
+      },
+      "description": {
+        "tr": "Merak edilenler ve kısa yanıtlar.",
+        "en": "Common questions and short answers.",
+        "ar": "أسئلة متكررة وإجابات موجزة."
+      },
+      "path": "sorular",
+      "icon": "help",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "hnbpuz",
+          "nf7pir"
+        ],
+        "footer": []
+      },
+      "index": 3
+    },
+    {
+      "id": "viodgxk76v",
+      "name": {
+        "tr": "Ön görüşme",
+        "en": "Consultation",
+        "ar": "استشارة أولية"
+      },
+      "description": {
+        "tr": "Ön görüşme talep formu (demo).",
+        "en": "Consultation request form (demo).",
+        "ar": "نموذج طلب استشارة (تجريبي)."
+      },
+      "path": "teklif-al",
+      "icon": "request_quote",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "smosox"
+        ],
+        "footer": []
+      },
+      "index": 4
+    },
+    {
+      "name": {
+        "tr": "İletişim",
+        "en": "Contact",
+        "ar": "اتصل بنا"
+      },
+      "status": "play",
+      "id": "iletisim",
+      "path": "iletisim",
+      "category": "",
+      "url": "",
+      "index": 5,
+      "icon": "call",
+      "desing": {
+        "header": [],
+        "body": [
+          "smosox",
+          "k8mp01"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Adres, telefon ve çalışma saatleri.",
+        "en": "Address, phone and opening hours.",
+        "ar": "العنوان والهاتف وساعات العمل."
+      }
+    }
+  ],
+  "desc": []
+}

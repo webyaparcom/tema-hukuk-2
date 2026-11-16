@@ -1,0 +1,40 @@
+{
+  "id": "oukzgssg7z",
+  "name": {
+    "tr": "Çalışma alanları",
+    "en": "Practice areas",
+    "ar": "مجالات العمل"
+  },
+  "description": {
+    "tr": "Her dosya kendi koşullarıyla değerlendirilir; aşağıdaki başlıklar bilgilendirme amaçlıdır.",
+    "en": "Each matter is assessed on its own facts; the headings below are for information only.",
+    "ar": "يُقيَّم كل ملف وفق ظروفه؛ العناوين أدناه لأغراض إعلامية فقط."
+  },
+  "keyword": {
+    "tr": "Çalışma alanları",
+    "en": "Practice areas",
+    "ar": "مجالات العمل"
+  },
+  "path": "hizmetler",
+  "icon": "work",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "0xctpv",
+      "nf7pir"
+    ],
+    "footer": []
+  },
+  "index": 0,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Çalışma alanları",
+    "en": "Practice areas",
+    "ar": "مجالات العمل"
+  },
+  "date": "2026-11-16T11:05:13.738Z",
+  "update": "2026-11-16T11:14:57.567Z"
+}

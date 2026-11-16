@@ -1,0 +1,54 @@
+{
+  "order": false,
+  "user": false,
+  "description": {
+    "tr": "Defne Hukuk: aile, miras ve gayrimenkul hukukunda bilgilendirme ve ön görüşme. Demo site; içerik kurgusaldır.",
+    "en": "Defne Law: information and initial consultations on family, inheritance and property law. Demo site; content is fictional.",
+    "ar": "دفنه للمحاماة: معلومات واستشارات أولية في قانون الأسرة والميراث والعقارات. موقع تجريبي؛ المحتوى افتراضي."
+  },
+  "keyword": {
+    "tr": "hukuk bürosu, aile hukuku, miras hukuku, gayrimenkul hukuku",
+    "en": "law office, family law, inheritance law, property law",
+    "ar": "مكتب محاماة، قانون الأسرة، قانون الميراث، قانون العقارات"
+  },
+  "category": "Kurumsal",
+  "name": "Defne Hukuk",
+  "domain": "hukuk-2.webyapar.com",
+  "langs": {
+    "tr": true,
+    "en": true,
+    "ar": true,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": "logo.png",
+  "multi": false,
+  "publishMode": "static",
+  "font": {
+    "body": "lora",
+    "heading": "playfair-display",
+    "ar": {
+      "body": "ibm-plex-sans-arabic",
+      "heading": "noto-kufi-arabic"
+    }
+  },
+  "colorScheme": "auto",
+  "theme_color": "#6B2D3A",
+  "seo": {
+    "noindex": true
+  },
+  "cssTokens": {
+    "--mx-radius-sm": "1px",
+    "--mx-radius-md": "2px",
+    "--mx-radius-lg": "3px",
+    "--mx-radius-xl": "4px"
+  },
+  "icon": "icon.png"
+}

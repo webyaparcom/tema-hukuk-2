@@ -1,0 +1,78 @@
+{
+  "name": "Footer 6",
+  "desing": {
+    "showlang": true,
+    "color": "#1e3046",
+    "logo": "logo.png",
+    "ecommerce_design": true,
+    "contact_info": true,
+    "social_media": true,
+    "payment_systems": true,
+    "newsletter": true,
+    "category_links": true,
+    "callLabel": {
+      "tr": "BİZİ 7/24 ARAYIN",
+      "en": "CALL US 24/7"
+    },
+    "phone": "(1800)-88-66-991",
+    "followLabel": {
+      "tr": "BİZİ TAKİP EDİN:",
+      "en": "FOLLOW US:"
+    },
+    "paymentAlt": {
+      "tr": "Ödeme Yöntemleri",
+      "en": "Payment Methods"
+    },
+    "addressTitle": {
+      "tr": "MAĞAZA ADRESİ:",
+      "en": "STORE ADDRESS:"
+    },
+    "address": "8000 Green Lake Drive Chevy Chase, MD 20815",
+    "email": "info@baklavasatinal.com",
+    "quickTitle": {
+      "tr": "HIZLI MENÜ",
+      "en": "QUICK MENU"
+    },
+    "accountTitle": {
+      "tr": "HESABIM",
+      "en": "MY ACCOUNT"
+    },
+    "accountlinks": {
+      "tr": "Hesabım|/tr/login/|Sepetim|/tr/sepet/|İletişim|/tr/iletisim/",
+      "en": "My Account|/en/login/|My Cart|/en/sepet/|Contact|/en/iletisim/"
+    },
+    "categoriesTitle": {
+      "tr": "KATEGORİLER",
+      "en": "CATEGORIES"
+    },
+    "categorylinks": {
+      "tr": "Baklava|#|Kuru Meyve|#|Kuru Sebze|#",
+      "en": "Baklava|#|Dried Fruit|#|Dried Vegetables|#"
+    },
+    "newsletterTitle": {
+      "tr": "BÜLTEN",
+      "en": "NEWSLETTER"
+    },
+    "newsletterText": {
+      "tr": "Kaydolun ve 200₺ değerinde bir kupon kazanın.",
+      "en": "Sign up and get a coupon worth 200₺."
+    },
+    "emailPlaceholder": {
+      "tr": "E-Posta Adresinizi Giriniz...",
+      "en": "Enter your e-mail address..."
+    },
+    "rightsText": {
+      "tr": "Tüm Hakları Saklıdır.",
+      "en": "All Rights Reserved."
+    },
+    "madeByHtml": ""
+  },
+  "category": "footer",
+  "data": [],
+  "description": "Web sitesi alt bilgi (footer) bölümü. Logo, telif hakları, iletişim bilgileri ve sosyal medya linklerini içerir. Tüm sayfa türlerinde kullanılabilir evrensel modüldür.",
+  "veri": {
+    "statik": true,
+    "dinamik": false,
+    "kaynak": "desing/data"
+  }
+}
