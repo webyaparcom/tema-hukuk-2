@@ -2,7 +2,9 @@
   "name": {
     "tr": "Hakkımızda",
     "en": "About us",
-    "ar": "من نحن"
+    "ar": "من نحن",
+    "de": "Über uns",
+    "ru": "О нас"
   },
   "status": "play",
   "category": "",
@@ -23,7 +25,9 @@
   "description": {
     "tr": "Aile, miras ve gayrimenkul hukuku; bilgilendirme amaçlıdır.",
     "en": "Family, inheritance and property law; for information only.",
-    "ar": "قانون الأسرة والميراث والعقارات؛ لأغراض إعلامية فقط."
+    "ar": "قانون الأسرة والميراث والعقارات؛ لأغراض إعلامية فقط.",
+    "de": "Familien-, Erbrecht und Immobilienrecht; nur zu Informationszwecken.",
+    "ru": "Семейное, наследственное и имущественное право; только для информации."
   },
   "spot": {
     "tr": "",
@@ -34,12 +38,16 @@
   "title": {
     "tr": "Hakkımızda",
     "en": "About us",
-    "ar": "من نحن"
+    "ar": "من نحن",
+    "de": "Über uns",
+    "ru": "О нас"
   },
   "keyword": {
     "tr": "hakkımızda",
     "en": "about",
-    "ar": "من نحن"
+    "ar": "من نحن",
+    "de": "Über uns",
+    "ru": "О нас"
   },
   "text": {},
   "update": "2026-11-16T13:37:37.074Z",

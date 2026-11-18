@@ -4,12 +4,16 @@
   "description": {
     "tr": "Defne Hukuk: aile, miras ve gayrimenkul hukukunda bilgilendirme ve ön görüşme. Demo site; içerik kurgusaldır.",
     "en": "Defne Law: information and initial consultations on family, inheritance and property law. Demo site; content is fictional.",
-    "ar": "دفنه للمحاماة: معلومات واستشارات أولية في قانون الأسرة والميراث والعقارات. موقع تجريبي؛ المحتوى افتراضي."
+    "ar": "دفنه للمحاماة: معلومات واستشارات أولية في قانون الأسرة والميراث والعقارات. موقع تجريبي؛ المحتوى افتراضي.",
+    "de": "Defne Hukuk: Informationen und Erstberatungen im Familien-, Erbrecht und Immobilienrecht. Demoseite; Inhalte sind fiktiv.",
+    "ru": "Defne Hukuk: информация и первичные консультации по семейному, наследственному и имущественному праву. Демо-сайт; контент вымышленный."
   },
   "keyword": {
     "tr": "hukuk bürosu, aile hukuku, miras hukuku, gayrimenkul hukuku",
     "en": "law office, family law, inheritance law, property law",
-    "ar": "مكتب محاماة، قانون الأسرة، قانون الميراث، قانون العقارات"
+    "ar": "مكتب محاماة، قانون الأسرة، قانون الميراث، قانون العقارات",
+    "de": "Anwaltskanzlei, Familienrecht, Erbrecht, Immobilienrecht",
+    "ru": "юридическая контора, семейное право, наследственное право, право недвижимости"
   },
   "category": "Kurumsal",
   "name": "Defne Hukuk",
@@ -18,15 +22,27 @@
     "tr": true,
     "en": true,
     "ar": true,
-    "de": false,
-    "ru": false,
+    "de": true,
+    "ru": true,
     "es": false,
     "fr": false,
     "it": false,
     "ja": false,
     "zh": false,
     "ko": false,
-    "pt": false
+    "pt": false,
+    "fa": false,
+    "he": false,
+    "ur": false,
+    "nl": false,
+    "pl": false,
+    "uk": false,
+    "az": false,
+    "ka": false,
+    "el": false,
+    "bg": false,
+    "ro": false,
+    "hi": false
   },
   "logo": "logo.png",
   "multi": false,

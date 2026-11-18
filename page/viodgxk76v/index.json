@@ -3,17 +3,23 @@
   "name": {
     "tr": "Ön görüşme",
     "en": "Consultation",
-    "ar": "استشارة أولية"
+    "ar": "استشارة أولية",
+    "de": "Beratung",
+    "ru": "Консультация"
   },
   "description": {
     "tr": "Ön görüşme talep formu (demo).",
     "en": "Consultation request form (demo).",
-    "ar": "نموذج طلب استشارة (تجريبي)."
+    "ar": "نموذج طلب استشارة (تجريبي).",
+    "de": "Antragsformular für Erstgespräch (Demo).",
+    "ru": "Форма заявки на консультацию (демо)."
   },
   "keyword": {
     "tr": "teklif",
     "en": "quote",
-    "ar": "عرض سعر"
+    "ar": "عرض سعر",
+    "de": "Angebot",
+    "ru": "оценка"
   },
   "path": "teklif-al",
   "icon": "request_quote",
@@ -32,7 +38,9 @@
   "title": {
     "tr": "Ön görüşme",
     "en": "Consultation",
-    "ar": "استشارة أولية"
+    "ar": "استشارة أولية",
+    "de": "Beratung",
+    "ru": "Консультация"
   },
   "date": "2026-11-16T11:05:13.756Z",
   "update": "2026-11-16T13:37:37.084Z"
