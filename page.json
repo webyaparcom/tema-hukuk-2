@@ -5,12 +5,16 @@
       "name": {
         "tr": "Çalışma alanları",
         "en": "Practice areas",
-        "ar": "مجالات العمل"
+        "ar": "مجالات العمل",
+        "de": "Schwerpunkte",
+        "ru": "Направления"
       },
       "description": {
         "tr": "Her dosya kendi koşullarıyla değerlendirilir; aşağıdaki başlıklar bilgilendirme amaçlıdır.",
         "en": "Each matter is assessed on its own facts; the headings below are for information only.",
-        "ar": "يُقيَّم كل ملف وفق ظروفه؛ العناوين أدناه لأغراض إعلامية فقط."
+        "ar": "يُقيَّم كل ملف وفق ظروفه؛ العناوين أدناه لأغراض إعلامية فقط.",
+        "de": "Jede Akte wird nach ihren eigenen Bedingungen beurteilt; die folgenden Überschriften dienen nur der Information.",
+        "ru": "Каждое дело рассматривается по его собственным условиям; приведённые ниже разделы носят информационный характер."
       },
       "path": "hizmetler",
       "icon": "work",
@@ -30,7 +34,9 @@
       "name": {
         "tr": "Hakkımızda",
         "en": "About us",
-        "ar": "من نحن"
+        "ar": "من نحن",
+        "de": "Über uns",
+        "ru": "О нас"
       },
       "status": "play",
       "id": "hakkimizda",
@@ -51,7 +57,9 @@
       "description": {
         "tr": "Aile, miras ve gayrimenkul hukuku; bilgilendirme amaçlıdır.",
         "en": "Family, inheritance and property law; for information only.",
-        "ar": "قانون الأسرة والميراث والعقارات؛ لأغراض إعلامية فقط."
+        "ar": "قانون الأسرة والميراث والعقارات؛ لأغراض إعلامية فقط.",
+        "de": "Familien-, Erbrecht und Immobilienrecht; nur zu Informationszwecken.",
+        "ru": "Семейное, наследственное и имущественное право; только для информации."
       }
     },
     {
@@ -59,12 +67,16 @@
       "name": {
         "tr": "Avukatlarımız",
         "en": "Our lawyers",
-        "ar": "محامونا"
+        "ar": "محامونا",
+        "de": "Unsere Anwälte",
+        "ru": "Наши юристы"
       },
       "description": {
         "tr": "Sizi karşılayan çalışanlarımız.",
         "en": "The staff who welcomes you.",
-        "ar": "الموظفون الذين يستقبلونكم."
+        "ar": "الموظفون الذين يستقبلونكم.",
+        "de": "Unsere Mitarbeiter, die Sie empfangen.",
+        "ru": "Наши сотрудники, которые вас встретят."
       },
       "path": "ekip",
       "icon": "groups",
@@ -84,12 +96,16 @@
       "name": {
         "tr": "Sözlük",
         "en": "Glossary",
-        "ar": "المصطلحات"
+        "ar": "المصطلحات",
+        "de": "Glossar",
+        "ru": "Глоссарий"
       },
       "description": {
         "tr": "Merak edilenler ve kısa yanıtlar.",
         "en": "Common questions and short answers.",
-        "ar": "أسئلة متكررة وإجابات موجزة."
+        "ar": "أسئلة متكررة وإجابات موجزة.",
+        "de": "Was Sie wissen möchten, in kurzen Antworten.",
+        "ru": "Что интересует читателей — в коротких ответах."
       },
       "path": "sorular",
       "icon": "help",
@@ -110,12 +126,16 @@
       "name": {
         "tr": "Ön görüşme",
         "en": "Consultation",
-        "ar": "استشارة أولية"
+        "ar": "استشارة أولية",
+        "de": "Beratung",
+        "ru": "Консультация"
       },
       "description": {
         "tr": "Ön görüşme talep formu (demo).",
         "en": "Consultation request form (demo).",
-        "ar": "نموذج طلب استشارة (تجريبي)."
+        "ar": "نموذج طلب استشارة (تجريبي).",
+        "de": "Antragsformular für Erstgespräch (Demo).",
+        "ru": "Форма заявки на консультацию (демо)."
       },
       "path": "teklif-al",
       "icon": "request_quote",
@@ -134,7 +154,9 @@
       "name": {
         "tr": "İletişim",
         "en": "Contact",
-        "ar": "اتصل بنا"
+        "ar": "اتصل بنا",
+        "de": "Kontakt",
+        "ru": "Контакты"
       },
       "status": "play",
       "id": "iletisim",
@@ -155,7 +177,9 @@
       "description": {
         "tr": "Adres, telefon ve çalışma saatleri.",
         "en": "Address, phone and opening hours.",
-        "ar": "العنوان والهاتف وساعات العمل."
+        "ar": "العنوان والهاتف وساعات العمل.",
+        "de": "Adresse, Telefon und Öffnungszeiten.",
+        "ru": "Адрес, телефон и часы работы."
       }
     }
   ],

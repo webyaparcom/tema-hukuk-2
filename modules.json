@@ -14,28 +14,38 @@
         "ariaLabel": {
           "tr": "Demo site uyarısı",
           "en": "Demo site notice",
-          "ar": "تنبيه الموقع التجريبي"
+          "ar": "تنبيه الموقع التجريبي",
+          "de": "Hinweis zur Demo-Website",
+          "ru": "Предупреждение о демонстрационном сайте"
         },
         "text": {
           "tr": "Bu bir demo sitedir — içerik kurgusaldır, ödeme alınmaz",
           "en": "This is a demo site — the content is fictional and no payment is taken",
-          "ar": "هذا موقع تجريبي — المحتوى افتراضي ولا يتم تحصيل أي مدفوعات"
+          "ar": "هذا موقع تجريبي — المحتوى افتراضي ولا يتم تحصيل أي مدفوعات",
+          "de": "Dies ist eine Demo-Website — die Inhalte sind fiktiv, es wird keine Zahlung entgegengenommen",
+          "ru": "Это демо-сайт — контент вымышленный, оплата не принимается"
         },
         "ctaText": {
           "tr": "Bu temayı iste",
           "en": "Get this theme",
-          "ar": "اطلب هذا القالب"
+          "ar": "اطلب هذا القالب",
+          "de": "Dieses Thema anfordern",
+          "ru": "Заказать эту тему"
         },
         "newTabText": {
           "tr": "(yeni sekmede açılır)",
           "en": "(opens in a new tab)",
-          "ar": "(يفتح في علامة تبويب جديدة)"
+          "ar": "(يفتح في علامة تبويب جديدة)",
+          "de": "(öffnet in einem neuen Tab)",
+          "ru": "(открывается в новой вкладке)"
         },
         "girisHref": "",
         "girisText": {
           "tr": "Üye Girişi",
           "en": "Login",
-          "ar": "تسجيل الدخول"
+          "ar": "تسجيل الدخول",
+          "de": "Mitglieder-Login",
+          "ru": "Вход для участников"
         },
         "hataBildir": "https://webyapar.com/api/portal/tema-hata.js"
       },
@@ -78,28 +88,38 @@
         "badge": {
           "tr": "Emlak",
           "en": "Real estate",
-          "ar": "عقارات"
+          "ar": "عقارات",
+          "de": "Immobilien",
+          "ru": "Недвижимость"
         },
         "title": {
           "tr": "Hayalinizdeki yeri birlikte bulalım",
           "en": "Let's find your dream home together",
-          "ar": "لنجد معًا المكان الذي تحلم به"
+          "ar": "لنجد معًا المكان الذي تحلم به",
+          "de": "Finden wir gemeinsam Ihren Traumort",
+          "ru": "Давайте вместе найдём место вашей мечты"
         },
         "description": {
           "tr": "Satılık ve kiralık seçkin portföy, şeffaf süreç, her ilanda yetki belgesi numarası.",
           "en": "A curated sale and rental portfolio, a transparent process, a permit number on every listing.",
-          "ar": "محفظة مختارة للبيع والإيجار وعملية شفافة ورقم ترخيص في كل إعلان."
+          "ar": "محفظة مختارة للبيع والإيجار وعملية شفافة ورقم ترخيص في كل إعلان.",
+          "de": "Ausgewählte Immobilien zum Kauf und zur Miete, transparenter Ablauf, bei jedem Inserat die Nummer der Vollmacht.",
+          "ru": "Избранный портфель недвижимости на продажу и в аренду, прозрачный процесс, номер разрешительного документа в каждом объявлении."
         },
         "btn1Text": {
           "tr": "İlanları gör",
           "en": "Browse listings",
-          "ar": "تصفح الإعلانات"
+          "ar": "تصفح الإعلانات",
+          "de": "Anzeigen durchsuchen",
+          "ru": "Просмотреть объявления"
         },
         "btn1Url": "ilanlar",
         "btn2Text": {
           "tr": "Değerleme",
           "en": "Valuation",
-          "ar": "التقييم"
+          "ar": "التقييم",
+          "de": "Bewertung",
+          "ru": "Оценка"
         },
         "btn2Url": "iletisim"
       },
@@ -129,127 +149,177 @@
         "title": {
           "tr": "Emlak İlanları",
           "en": "Property Listings",
-          "ar": "إعلانات العقارات"
+          "ar": "إعلانات العقارات",
+          "de": "Immobilienangebote",
+          "ru": "Объявления о недвижимости"
         },
         "subtitle": {
           "tr": "Satılık ve kiralık ilanları süzün, sıralayın ve karşılaştırın.",
           "en": "Filter, sort and compare properties for sale and for rent.",
-          "ar": "صفِّ العقارات المعروضة للبيع والإيجار ورتّبها وقارن بينها."
+          "ar": "صفِّ العقارات المعروضة للبيع والإيجار ورتّبها وقارن بينها.",
+          "de": "Objekte zum Kauf und zur Miete filtern, sortieren und vergleichen.",
+          "ru": "Фильтруйте, сортируйте и сравнивайте объекты на продажу и в аренду."
         },
         "searchLabel": {
           "tr": "İlan ara",
           "en": "Search listings",
-          "ar": "ابحث في الإعلانات"
+          "ar": "ابحث في الإعلانات",
+          "de": "Inserate suchen",
+          "ru": "Искать объявления"
         },
         "searchPlaceholder": {
           "tr": "Semt veya ilan başlığı…",
           "en": "District or listing title…",
-          "ar": "الحي أو عنوان الإعلان…"
+          "ar": "الحي أو عنوان الإعلان…",
+          "de": "Stadtteil oder Anzeigentitel…",
+          "ru": "Район или заголовок объявления…"
         },
         "dealGroupLabel": {
           "tr": "İşlem türü",
           "en": "Deal type",
-          "ar": "نوع الصفقة"
+          "ar": "نوع الصفقة",
+          "de": "Transaktionstyp",
+          "ru": "Тип сделки"
         },
         "dealAll": {
           "tr": "Tümü",
           "en": "All",
-          "ar": "الكل"
+          "ar": "الكل",
+          "de": "Alle",
+          "ru": "Все"
         },
         "dealSale": {
           "tr": "Satılık",
           "en": "For sale",
-          "ar": "للبيع"
+          "ar": "للبيع",
+          "de": "Zu verkaufen",
+          "ru": "Продам"
         },
         "dealRent": {
           "tr": "Kiralık",
           "en": "For rent",
-          "ar": "للإيجار"
+          "ar": "للإيجار",
+          "de": "Zu vermieten",
+          "ru": "Аренда"
         },
         "filtersTitle": {
           "tr": "Filtreler",
           "en": "Filters",
-          "ar": "التصفية"
+          "ar": "التصفية",
+          "de": "Filter",
+          "ru": "Фильтры"
         },
         "typeTitle": {
           "tr": "Emlak türü",
           "en": "Property type",
-          "ar": "نوع العقار"
+          "ar": "نوع العقار",
+          "de": "Eigentumsart",
+          "ru": "Тип недвижимости"
         },
         "roomsTitle": {
           "tr": "Oda sayısı",
           "en": "Rooms",
-          "ar": "عدد الغرف"
+          "ar": "عدد الغرف",
+          "de": "Zimmerzahl",
+          "ru": "Количество комнат"
         },
         "m2Title": {
           "tr": "Alan (m²)",
           "en": "Area (m²)",
-          "ar": "المساحة (م²)"
+          "ar": "المساحة (م²)",
+          "de": "Fläche (m²)",
+          "ru": "Площадь (м²)"
         },
         "priceTitle": {
           "tr": "Fiyat",
           "en": "Price",
-          "ar": "السعر"
+          "ar": "السعر",
+          "de": "Preis",
+          "ru": "Цена"
         },
         "districtTitle": {
           "tr": "Semt",
           "en": "District",
-          "ar": "الحي"
+          "ar": "الحي",
+          "de": "Stadtviertel",
+          "ru": "Район"
         },
         "districtAll": {
           "tr": "Tüm semtler",
           "en": "All districts",
-          "ar": "كل الأحياء"
+          "ar": "كل الأحياء",
+          "de": "Alle Stadtteile",
+          "ru": "Все районы"
         },
         "minLabel": {
           "tr": "En az",
           "en": "Min",
-          "ar": "الحد الأدنى"
+          "ar": "الحد الأدنى",
+          "de": "Mindestens",
+          "ru": "Минимум"
         },
         "maxLabel": {
           "tr": "En çok",
           "en": "Max",
-          "ar": "الحد الأقصى"
+          "ar": "الحد الأقصى",
+          "de": "Max",
+          "ru": "Макс"
         },
         "m2Unit": {
           "tr": "m²",
           "en": "m²",
-          "ar": "م²"
+          "ar": "م²",
+          "de": "m²",
+          "ru": "m²"
         },
         "sortLabel": {
           "tr": "Sırala",
           "en": "Sort by",
-          "ar": "ترتيب حسب"
+          "ar": "ترتيب حسب",
+          "de": "Sortieren",
+          "ru": "Сортировать"
         },
         "sortDate": {
           "tr": "En yeni",
           "en": "Newest",
-          "ar": "الأحدث"
+          "ar": "الأحدث",
+          "de": "Neueste",
+          "ru": "Самые новые"
         },
         "sortPrice": {
           "tr": "Fiyat: düşükten yükseğe",
           "en": "Price: low to high",
-          "ar": "السعر: من الأقل إلى الأعلى"
+          "ar": "السعر: من الأقل إلى الأعلى",
+          "de": "Preis: aufsteigend",
+          "ru": "Цена: по возрастанию"
         },
         "sortPriceDesc": {
           "tr": "Fiyat: yüksekten düşüğe",
           "en": "Price: high to low",
-          "ar": "السعر: من الأعلى إلى الأقل"
+          "ar": "السعر: من الأعلى إلى الأقل",
+          "de": "Preis: absteigend",
+          "ru": "Цена: по убыванию"
         },
         "sortM2": {
           "tr": "Alan: büyükten küçüğe",
           "en": "Area: large to small",
-          "ar": "المساحة: من الأكبر إلى الأصغر"
+          "ar": "المساحة: من الأكبر إلى الأصغر",
+          "de": "Fläche: von groß nach klein",
+          "ru": "Площадь: от большой к малой"
         },
         "sortM2Asc": {
           "tr": "Alan: küçükten büyüğe",
           "en": "Area: small to large",
-          "ar": "المساحة: من الأصغر إلى الأكبر"
+          "ar": "المساحة: من الأصغر إلى الأكبر",
+          "de": "Fläche: von klein nach groß",
+          "ru": "Площадь: от меньшей к большей"
         },
         "resetFilters": {
           "tr": "Filtreleri temizle",
           "en": "Clear filters",
-          "ar": "مسح عوامل التصفية"
+          "ar": "مسح عوامل التصفية",
+          "de": "Filter zurücksetzen",
+          "ru": "Сбросить фильтры"
         },
         "resultCount": {
           "tr": {
@@ -289,62 +359,86 @@
         "noResultTitle": {
           "tr": "Sonuç bulunamadı",
           "en": "No results found",
-          "ar": "لم يتم العثور على نتائج"
+          "ar": "لم يتم العثور على نتائج",
+          "de": "Keine Ergebnisse gefunden",
+          "ru": "Ничего не найдено"
         },
         "noResultText": {
           "tr": "Filtreleri gevşetmeyi veya temizlemeyi deneyin.",
           "en": "Try loosening or clearing your filters.",
-          "ar": "جرّب تخفيف عوامل التصفية أو مسحها."
+          "ar": "جرّب تخفيف عوامل التصفية أو مسحها.",
+          "de": "Versuchen Sie, die Filter zu lockern oder zurückzusetzen.",
+          "ru": "Попробуйте ослабить или сбросить фильтры."
         },
         "pagesLabel": {
           "tr": "Sayfalama",
           "en": "Pagination",
-          "ar": "التنقل بين الصفحات"
+          "ar": "التنقل بين الصفحات",
+          "de": "Seitennavigation",
+          "ru": "Постраничная навигация"
         },
         "prevPage": {
           "tr": "Önceki sayfa",
           "en": "Previous page",
-          "ar": "الصفحة السابقة"
+          "ar": "الصفحة السابقة",
+          "de": "Vorherige Seite",
+          "ru": "Предыдущая страница"
         },
         "nextPage": {
           "tr": "Sonraki sayfa",
           "en": "Next page",
-          "ar": "الصفحة التالية"
+          "ar": "الصفحة التالية",
+          "de": "Nächste Seite",
+          "ru": "Следующая страница"
         },
         "pageN": {
           "tr": "Sayfa {n}",
           "en": "Page {n}",
-          "ar": "الصفحة {n}"
+          "ar": "الصفحة {n}",
+          "de": "Seite {n}",
+          "ru": "Страница {n}"
         },
         "permitLabel": {
           "tr": "Yetki belgesi no",
           "en": "Authorization certificate no.",
-          "ar": "رقم شهادة التفويض"
+          "ar": "رقم شهادة التفويض",
+          "de": "Zulassungsnummer",
+          "ru": "Номер разрешительного документа"
         },
         "permitDemo": {
           "tr": "Yetki belgesi no: örnek ilan (DEMO)",
           "en": "Authorization no.: sample listing (DEMO)",
-          "ar": "رقم شهادة التفويض: إعلان تجريبي (عرض توضيحي)"
+          "ar": "رقم شهادة التفويض: إعلان تجريبي (عرض توضيحي)",
+          "de": "Zulassungsnr.: Beispielanzeige (DEMO)",
+          "ru": "Номер разрешения: пример объявления (ДЕМО)"
         },
         "perMonth": {
           "tr": "/ ay",
           "en": "/ month",
-          "ar": "/ شهريًا"
+          "ar": "/ شهريًا",
+          "de": "/ month",
+          "ru": "/ month"
         },
         "details": {
           "tr": "İlan detayı",
           "en": "View listing",
-          "ar": "تفاصيل الإعلان"
+          "ar": "تفاصيل الإعلان",
+          "de": "Anzeigedetails",
+          "ru": "Детали объявления"
         },
         "dateLabel": {
           "tr": "İlan tarihi",
           "en": "Listed on",
-          "ar": "تاريخ الإعلان"
+          "ar": "تاريخ الإعلان",
+          "de": "Einschaltungsdatum",
+          "ru": "Дата размещения"
         },
         "demoNote": {
           "tr": "Bu sayfadaki ilanlar kurgusaldır; yetki belgesi numaraları örnektir (DEMO).",
           "en": "Listings on this page are fictional; authorization numbers are samples (DEMO).",
-          "ar": "الإعلانات في هذه الصفحة وهمية، وأرقام شهادات التفويض أمثلة فقط (عرض توضيحي)."
+          "ar": "الإعلانات في هذه الصفحة وهمية، وأرقام شهادات التفويض أمثلة فقط (عرض توضيحي).",
+          "de": "Die Anzeigen auf dieser Seite sind fiktiv; die Genehmigungsnummern sind Beispiele (DEMO).",
+          "ru": "Объявления на этой странице вымышлены; номера разрешений приведены в качестве примеров (DEMO)."
         }
       },
       "version": "1.0.0",
@@ -361,27 +455,37 @@
           "daire": {
             "tr": "Daire",
             "en": "Apartment",
-            "ar": "شقة"
+            "ar": "شقة",
+            "de": "Wohnung",
+            "ru": "Квартира"
           },
           "villa": {
             "tr": "Villa",
             "en": "Villa",
-            "ar": "فيلا"
+            "ar": "فيلا",
+            "de": "Villa",
+            "ru": "Villa"
           },
           "rezidans": {
             "tr": "Rezidans",
             "en": "Residence",
-            "ar": "مجمّع سكني"
+            "ar": "مجمّع سكني",
+            "de": "Residenz",
+            "ru": "Резиденция"
           },
           "arsa": {
             "tr": "Arsa",
             "en": "Land",
-            "ar": "أرض"
+            "ar": "أرض",
+            "de": "Grundstück",
+            "ru": "Участок"
           },
           "isyeri": {
             "tr": "İşyeri",
             "en": "Commercial",
-            "ar": "محل تجاري"
+            "ar": "محل تجاري",
+            "de": "Arbeitsplatz",
+            "ru": "Место работы"
           }
         },
         "listings": [
@@ -390,7 +494,9 @@
             "title": {
               "tr": "Deniz manzaralı 3+1 daire",
               "en": "3+1 apartment with sea view",
-              "ar": "شقة 3+1 بإطلالة بحرية"
+              "ar": "شقة 3+1 بإطلالة بحرية",
+              "de": "3+1-Wohnung mit Meerblick",
+              "ru": "Квартира 3+1 с видом на море"
             },
             "deal": "sale",
             "type": "daire",
@@ -401,12 +507,16 @@
             "city": {
               "tr": "İstanbul",
               "en": "Istanbul",
-              "ar": "إسطنبول"
+              "ar": "إسطنبول",
+              "de": "Istanbul",
+              "ru": "Стамбул"
             },
             "district": {
               "tr": "Kadıköy",
               "en": "Kadikoy",
-              "ar": "قاضي كوي"
+              "ar": "قاضي كوي",
+              "de": "Kadıköy",
+              "ru": "Кадыкёй"
             },
             "img": [],
             "permitNo": "DEMO-34-0001",
@@ -415,7 +525,9 @@
             "badge": {
               "tr": "Yeni",
               "en": "New",
-              "ar": "جديد"
+              "ar": "جديد",
+              "de": "Neu",
+              "ru": "Новинка"
             }
           },
           {
@@ -423,7 +535,9 @@
             "title": {
               "tr": "Bahçe katı 2+1 kiralık daire",
               "en": "2+1 garden-floor apartment for rent",
-              "ar": "شقة 2+1 في الطابق الأرضي مع حديقة للإيجار"
+              "ar": "شقة 2+1 في الطابق الأرضي مع حديقة للإيجار",
+              "de": "2+1-Mietwohnung im Gartengeschoss",
+              "ru": "Квартира 2+1 в аренду на садовом этаже"
             },
             "deal": "rent",
             "type": "daire",
@@ -434,12 +548,16 @@
             "city": {
               "tr": "Ankara",
               "en": "Ankara",
-              "ar": "أنقرة"
+              "ar": "أنقرة",
+              "de": "Ankara",
+              "ru": "Ankara"
             },
             "district": {
               "tr": "Çankaya",
               "en": "Cankaya",
-              "ar": "تشانكايا"
+              "ar": "تشانكايا",
+              "de": "Çankaya",
+              "ru": "Чанкая"
             },
             "img": [],
             "permitNo": "DEMO-06-0002",
@@ -451,7 +569,9 @@
             "title": {
               "tr": "Havuzlu müstakil villa",
               "en": "Detached villa with pool",
-              "ar": "فيلا مستقلة مع مسبح"
+              "ar": "فيلا مستقلة مع مسبح",
+              "de": "Freistehende Villa mit Pool",
+              "ru": "Отдельно стоящая вилла с бассейном"
             },
             "deal": "sale",
             "type": "villa",
@@ -462,12 +582,16 @@
             "city": {
               "tr": "Muğla",
               "en": "Mugla",
-              "ar": "موغلا"
+              "ar": "موغلا",
+              "de": "Muğla",
+              "ru": "Мугла"
             },
             "district": {
               "tr": "Bodrum",
               "en": "Bodrum",
-              "ar": "بودروم"
+              "ar": "بودروم",
+              "de": "Bodrum",
+              "ru": "Bodrum"
             },
             "img": [],
             "permitNo": "DEMO-48-0003",
@@ -479,7 +603,9 @@
             "title": {
               "tr": "Eşyalı 1+1 kiralık daire",
               "en": "Furnished 1+1 apartment for rent",
-              "ar": "شقة 1+1 مفروشة للإيجار"
+              "ar": "شقة 1+1 مفروشة للإيجار",
+              "de": "Möblierte 1+1-Wohnung zur Miete",
+              "ru": "Меблированная квартира 1+1 в аренду"
             },
             "deal": "rent",
             "type": "daire",
@@ -490,12 +616,16 @@
             "city": {
               "tr": "İzmir",
               "en": "Izmir",
-              "ar": "إزمير"
+              "ar": "إزمير",
+              "de": "İzmir",
+              "ru": "Измир"
             },
             "district": {
               "tr": "Karşıyaka",
               "en": "Karsiyaka",
-              "ar": "قارشيياكا"
+              "ar": "قارشيياكا",
+              "de": "Karşıyaka",
+              "ru": "Каршияка"
             },
             "img": [],
             "permitNo": "DEMO-35-0004",
@@ -507,7 +637,9 @@
             "title": {
               "tr": "İmarlı satılık arsa",
               "en": "Zoned plot for sale",
-              "ar": "أرض مخططة للبيع"
+              "ar": "أرض مخططة للبيع",
+              "de": "Baugrundstück mit Bebauungsplan zu verkaufen",
+              "ru": "Участок под застройку на продажу"
             },
             "deal": "sale",
             "type": "arsa",
@@ -518,12 +650,16 @@
             "city": {
               "tr": "İzmir",
               "en": "Izmir",
-              "ar": "إزمير"
+              "ar": "إزمير",
+              "de": "İzmir",
+              "ru": "Измир"
             },
             "district": {
               "tr": "Urla",
               "en": "Urla",
-              "ar": "أورلا"
+              "ar": "أورلا",
+              "de": "Urla",
+              "ru": "Urla"
             },
             "img": [],
             "permitNo": "DEMO-35-0005",
@@ -535,7 +671,9 @@
             "title": {
               "tr": "Cadde üstü kiralık dükkân",
               "en": "Street-front shop for rent",
-              "ar": "محل على الشارع الرئيسي للإيجار"
+              "ar": "محل على الشارع الرئيسي للإيجار",
+              "de": "Ladenlokal an der Hauptstraße zu vermieten",
+              "ru": "Магазин на главной улице в аренду"
             },
             "deal": "rent",
             "type": "isyeri",
@@ -546,12 +684,16 @@
             "city": {
               "tr": "İstanbul",
               "en": "Istanbul",
-              "ar": "إسطنبول"
+              "ar": "إسطنبول",
+              "de": "Istanbul",
+              "ru": "Стамбул"
             },
             "district": {
               "tr": "Şişli",
               "en": "Sisli",
-              "ar": "شيشلي"
+              "ar": "شيشلي",
+              "de": "Şişli",
+              "ru": "Шишли"
             },
             "img": [],
             "permitNo": "DEMO-34-0006",
@@ -563,7 +705,9 @@
             "title": {
               "tr": "Site içinde 2+1 daire",
               "en": "2+1 apartment in a gated complex",
-              "ar": "شقة 2+1 داخل مجمع سكني مسوّر"
+              "ar": "شقة 2+1 داخل مجمع سكني مسوّر",
+              "de": "2+1 Wohnung in einer Wohnanlage",
+              "ru": "Квартира 2+1 в закрытом комплексе"
             },
             "deal": "sale",
             "type": "daire",
@@ -574,12 +718,16 @@
             "city": {
               "tr": "Bursa",
               "en": "Bursa",
-              "ar": "بورصة"
+              "ar": "بورصة",
+              "de": "Bursa",
+              "ru": "Bursa"
             },
             "district": {
               "tr": "Nilüfer",
               "en": "Nilufer",
-              "ar": "نيلوفر"
+              "ar": "نيلوفر",
+              "de": "Nilüfer",
+              "ru": "Nilüfer"
             },
             "img": [],
             "permitNo": "DEMO-16-0007",
@@ -591,7 +739,9 @@
             "title": {
               "tr": "Merkezi konumda 1+1 rezidans",
               "en": "1+1 residence in a central location",
-              "ar": "وحدة 1+1 في مجمّع سكني بموقع مركزي"
+              "ar": "وحدة 1+1 في مجمّع سكني بموقع مركزي",
+              "de": "1+1-Residenz in zentraler Lage",
+              "ru": "Резиденция 1+1 в центральном районе"
             },
             "deal": "sale",
             "type": "rezidans",
@@ -602,12 +752,16 @@
             "city": {
               "tr": "İstanbul",
               "en": "Istanbul",
-              "ar": "إسطنبول"
+              "ar": "إسطنبول",
+              "de": "Istanbul",
+              "ru": "Стамбул"
             },
             "district": {
               "tr": "Beşiktaş",
               "en": "Besiktas",
-              "ar": "بشيكتاش"
+              "ar": "بشيكتاش",
+              "de": "Beşiktaş",
+              "ru": "Бешикташ"
             },
             "img": [],
             "permitNo": "DEMO-34-0008",
@@ -642,7 +796,9 @@
           "label": {
             "tr": "Tamamlanan Proje",
             "en": "Completed Projects",
-            "ar": "مشروع منجز"
+            "ar": "مشروع منجز",
+            "de": "Abgeschlossene Projekte",
+            "ru": "Завершённые проекты"
           },
           "icon": "task_alt"
         },
@@ -652,7 +808,9 @@
           "label": {
             "tr": "Mutlu Müşteri",
             "en": "Happy Customers",
-            "ar": "عميل سعيد"
+            "ar": "عميل سعيد",
+            "de": "Zufriedene Kunden",
+            "ru": "Довольные клиенты"
           },
           "icon": "sentiment_satisfied"
         },
@@ -662,7 +820,9 @@
           "label": {
             "tr": "Yıllık Deneyim",
             "en": "Years of Experience",
-            "ar": "سنوات من الخبرة"
+            "ar": "سنوات من الخبرة",
+            "de": "Jahre Erfahrung",
+            "ru": "Лет опыта"
           },
           "icon": "workspace_premium"
         },
@@ -672,7 +832,9 @@
           "label": {
             "tr": "Destek",
             "en": "Support",
-            "ar": "الدعم"
+            "ar": "الدعم",
+            "de": "Support",
+            "ru": "Поддержка"
           },
           "icon": "support_agent"
         }
@@ -696,17 +858,23 @@
         "badge": {
           "tr": "Ekip",
           "en": "Team",
-          "ar": "الفريق"
+          "ar": "الفريق",
+          "de": "Team",
+          "ru": "Команда"
         },
         "title": {
           "tr": "Danışmanlarımız",
           "en": "Our advisors",
-          "ar": "مستشارونا"
+          "ar": "مستشارونا",
+          "de": "Unsere Berater",
+          "ru": "Наши консультанты"
         },
         "description": {
           "tr": "Alanında deneyimli ekibimiz projelerinize değer katmak için burada.",
           "en": "Our experienced team is here to add value to your projects.",
-          "ar": "فريقنا ذو الخبرة هنا ليضيف قيمة إلى مشاريعك."
+          "ar": "فريقنا ذو الخبرة هنا ليضيف قيمة إلى مشاريعك.",
+          "de": "Unser erfahrenes Team ist hier, um Ihren Projekten Mehrwert zu verleihen.",
+          "ru": "Наша опытная команда готова принести пользу вашим проектам."
         },
         "accentText": "#ffffff"
       },
@@ -718,12 +886,16 @@
           "role": {
             "tr": "Kurucu / CEO",
             "en": "Founder / CEO",
-            "ar": "المؤسس / الرئيس التنفيذي"
+            "ar": "المؤسس / الرئيس التنفيذي",
+            "de": "Gründer / CEO",
+            "ru": "Основатель / CEO"
           },
           "bio": {
             "tr": "10+ yıllık sektör deneyimi ile strateji ve yönetim.",
             "en": "Strategy and management with 10+ years of industry experience.",
-            "ar": "الاستراتيجية والإدارة بخبرة تتجاوز 10 سنوات في القطاع."
+            "ar": "الاستراتيجية والإدارة بخبرة تتجاوز 10 سنوات في القطاع.",
+            "de": "Strategie und Management mit über 10 Jahren Branchenerfahrung.",
+            "ru": "Стратегия и управление с опытом работы в отрасли более 10 лет."
           },
           "img": ""
         },
@@ -732,12 +904,16 @@
           "role": {
             "tr": "Tasarım Direktörü",
             "en": "Design Director",
-            "ar": "مدير التصميم"
+            "ar": "مدير التصميم",
+            "de": "Design Director",
+            "ru": "Арт-директор"
           },
           "bio": {
             "tr": "Marka kimliği ve kullanıcı deneyimi tasarımı.",
             "en": "Brand identity and user experience design.",
-            "ar": "تصميم هوية العلامة التجارية وتجربة المستخدم."
+            "ar": "تصميم هوية العلامة التجارية وتجربة المستخدم.",
+            "de": "Markenidentität und Gestaltung der Nutzererfahrung.",
+            "ru": "Фирменный стиль и дизайн пользовательского опыта."
           },
           "img": ""
         },
@@ -746,12 +922,16 @@
           "role": {
             "tr": "Yazılım Geliştirici",
             "en": "Software Developer",
-            "ar": "مطوّر برمجيات"
+            "ar": "مطوّر برمجيات",
+            "de": "Softwareentwickler",
+            "ru": "Разработчик программного обеспечения"
           },
           "bio": {
             "tr": "Modern web teknolojileri ile ölçeklenebilir çözümler.",
             "en": "Scalable solutions with modern web technologies.",
-            "ar": "حلول قابلة للتوسّع بتقنيات الويب الحديثة."
+            "ar": "حلول قابلة للتوسّع بتقنيات الويب الحديثة.",
+            "de": "Skalierbare Lösungen mit modernen Webtechnologien.",
+            "ru": "Масштабируемые решения на современных веб-технологиях."
           },
           "img": ""
         }
@@ -796,7 +976,9 @@
         "name": {
           "tr": "Bize Ulaşın",
           "en": "Contact Us",
-          "ar": "تواصل معنا"
+          "ar": "تواصل معنا",
+          "de": "Kontaktieren Sie uns",
+          "ru": "Свяжитесь с нами"
         },
         "margin": "30px 0px 30px 0px",
         "linkcolor": "var(--mx-site-primary, #2563eb)",
@@ -850,33 +1032,45 @@
         "name": {
           "tr": "Hakkımızda",
           "en": "About us",
-          "ar": "من نحن"
+          "ar": "من نحن",
+          "de": "Über uns",
+          "ru": "О нас"
         },
         "description": {
           "tr": "Bu sayfa bir tema örneğidir; içerik demo üretiminde doldurulur.",
           "en": "This page is a theme sample; its content is filled in during demo production.",
-          "ar": "هذه الصفحة نموذج للقالب؛ يُملأ محتواها عند إنتاج العرض التجريبي."
+          "ar": "هذه الصفحة نموذج للقالب؛ يُملأ محتواها عند إنتاج العرض التجريبي.",
+          "de": "Diese Seite ist ein Theme-Beispiel; der Inhalt wird bei der Demo-Erstellung befüllt.",
+          "ru": "Эта страница — пример темы; содержание заполняется при создании демо."
         },
         "name2": {
           "tr": "Vizyonumuz",
           "en": "Our Vision",
-          "ar": "رؤيتنا"
+          "ar": "رؤيتنا",
+          "de": "Unsere Vision",
+          "ru": "Наше видение"
         },
         "spot2": {
           "tr": "Sektörümüzde yenilikçi yaklaşımlarla öncü olmak.",
           "en": "To lead our industry with innovative approaches.",
-          "ar": "أن نكون روّادًا في قطاعنا بأساليب مبتكرة."
+          "ar": "أن نكون روّادًا في قطاعنا بأساليب مبتكرة.",
+          "de": "In unserer Branche mit innovativen Ansätzen führend zu sein.",
+          "ru": "Быть лидером в нашей отрасли благодаря инновационным подходам."
         },
         "icon2": "visibility",
         "name3": {
           "tr": "Misyonumuz",
           "en": "Our Mission",
-          "ar": "مهمتنا"
+          "ar": "مهمتنا",
+          "de": "Unsere Mission",
+          "ru": "Наша миссия"
         },
         "spot3": {
           "tr": "İhtiyaç duyulan çözümleri hızlı ve şeffaf sunmak.",
           "en": "Deliver needed solutions quickly and transparently.",
-          "ar": "تقديم الحلول المطلوبة بسرعة وشفافية."
+          "ar": "تقديم الحلول المطلوبة بسرعة وشفافية.",
+          "de": "Die benötigten Lösungen schnell und transparent bereitstellen.",
+          "ru": "Быстро и прозрачно предлагать необходимые решения."
         },
         "icon3": "flag",
         "img": "index.jpg",
@@ -887,7 +1081,9 @@
         "title": {
           "tr": "Kurumsal",
           "en": "Corporate",
-          "ar": "المؤسسة"
+          "ar": "المؤسسة",
+          "de": "Über uns",
+          "ru": "О нас"
         },
         "stil": ""
       },
@@ -917,127 +1113,177 @@
         "title": {
           "tr": "Emlak İlanları",
           "en": "Property Listings",
-          "ar": "إعلانات العقارات"
+          "ar": "إعلانات العقارات",
+          "de": "Immobilienangebote",
+          "ru": "Объявления о недвижимости"
         },
         "subtitle": {
           "tr": "Satılık ve kiralık ilanları süzün, sıralayın ve karşılaştırın.",
           "en": "Filter, sort and compare properties for sale and for rent.",
-          "ar": "صفِّ العقارات المعروضة للبيع والإيجار ورتّبها وقارن بينها."
+          "ar": "صفِّ العقارات المعروضة للبيع والإيجار ورتّبها وقارن بينها.",
+          "de": "Objekte zum Kauf und zur Miete filtern, sortieren und vergleichen.",
+          "ru": "Фильтруйте, сортируйте и сравнивайте объекты на продажу и в аренду."
         },
         "searchLabel": {
           "tr": "İlan ara",
           "en": "Search listings",
-          "ar": "ابحث في الإعلانات"
+          "ar": "ابحث في الإعلانات",
+          "de": "Inserate suchen",
+          "ru": "Искать объявления"
         },
         "searchPlaceholder": {
           "tr": "Semt veya ilan başlığı…",
           "en": "District or listing title…",
-          "ar": "الحي أو عنوان الإعلان…"
+          "ar": "الحي أو عنوان الإعلان…",
+          "de": "Stadtteil oder Anzeigentitel…",
+          "ru": "Район или заголовок объявления…"
         },
         "dealGroupLabel": {
           "tr": "İşlem türü",
           "en": "Deal type",
-          "ar": "نوع الصفقة"
+          "ar": "نوع الصفقة",
+          "de": "Transaktionstyp",
+          "ru": "Тип сделки"
         },
         "dealAll": {
           "tr": "Tümü",
           "en": "All",
-          "ar": "الكل"
+          "ar": "الكل",
+          "de": "Alle",
+          "ru": "Все"
         },
         "dealSale": {
           "tr": "Satılık",
           "en": "For sale",
-          "ar": "للبيع"
+          "ar": "للبيع",
+          "de": "Zu verkaufen",
+          "ru": "Продам"
         },
         "dealRent": {
           "tr": "Kiralık",
           "en": "For rent",
-          "ar": "للإيجار"
+          "ar": "للإيجار",
+          "de": "Zu vermieten",
+          "ru": "Аренда"
         },
         "filtersTitle": {
           "tr": "Filtreler",
           "en": "Filters",
-          "ar": "التصفية"
+          "ar": "التصفية",
+          "de": "Filter",
+          "ru": "Фильтры"
         },
         "typeTitle": {
           "tr": "Emlak türü",
           "en": "Property type",
-          "ar": "نوع العقار"
+          "ar": "نوع العقار",
+          "de": "Eigentumsart",
+          "ru": "Тип недвижимости"
         },
         "roomsTitle": {
           "tr": "Oda sayısı",
           "en": "Rooms",
-          "ar": "عدد الغرف"
+          "ar": "عدد الغرف",
+          "de": "Zimmerzahl",
+          "ru": "Количество комнат"
         },
         "m2Title": {
           "tr": "Alan (m²)",
           "en": "Area (m²)",
-          "ar": "المساحة (م²)"
+          "ar": "المساحة (م²)",
+          "de": "Fläche (m²)",
+          "ru": "Площадь (м²)"
         },
         "priceTitle": {
           "tr": "Fiyat",
           "en": "Price",
-          "ar": "السعر"
+          "ar": "السعر",
+          "de": "Preis",
+          "ru": "Цена"
         },
         "districtTitle": {
           "tr": "Semt",
           "en": "District",
-          "ar": "الحي"
+          "ar": "الحي",
+          "de": "Stadtviertel",
+          "ru": "Район"
         },
         "districtAll": {
           "tr": "Tüm semtler",
           "en": "All districts",
-          "ar": "كل الأحياء"
+          "ar": "كل الأحياء",
+          "de": "Alle Stadtteile",
+          "ru": "Все районы"
         },
         "minLabel": {
           "tr": "En az",
           "en": "Min",
-          "ar": "الحد الأدنى"
+          "ar": "الحد الأدنى",
+          "de": "Mindestens",
+          "ru": "Минимум"
         },
         "maxLabel": {
           "tr": "En çok",
           "en": "Max",
-          "ar": "الحد الأقصى"
+          "ar": "الحد الأقصى",
+          "de": "Max",
+          "ru": "Макс"
         },
         "m2Unit": {
           "tr": "m²",
           "en": "m²",
-          "ar": "م²"
+          "ar": "م²",
+          "de": "m²",
+          "ru": "m²"
         },
         "sortLabel": {
           "tr": "Sırala",
           "en": "Sort by",
-          "ar": "ترتيب حسب"
+          "ar": "ترتيب حسب",
+          "de": "Sortieren",
+          "ru": "Сортировать"
         },
         "sortDate": {
           "tr": "En yeni",
           "en": "Newest",
-          "ar": "الأحدث"
+          "ar": "الأحدث",
+          "de": "Neueste",
+          "ru": "Самые новые"
         },
         "sortPrice": {
           "tr": "Fiyat: düşükten yükseğe",
           "en": "Price: low to high",
-          "ar": "السعر: من الأقل إلى الأعلى"
+          "ar": "السعر: من الأقل إلى الأعلى",
+          "de": "Preis: aufsteigend",
+          "ru": "Цена: по возрастанию"
         },
         "sortPriceDesc": {
           "tr": "Fiyat: yüksekten düşüğe",
           "en": "Price: high to low",
-          "ar": "السعر: من الأعلى إلى الأقل"
+          "ar": "السعر: من الأعلى إلى الأقل",
+          "de": "Preis: absteigend",
+          "ru": "Цена: по убыванию"
         },
         "sortM2": {
           "tr": "Alan: büyükten küçüğe",
           "en": "Area: large to small",
-          "ar": "المساحة: من الأكبر إلى الأصغر"
+          "ar": "المساحة: من الأكبر إلى الأصغر",
+          "de": "Fläche: von groß nach klein",
+          "ru": "Площадь: от большой к малой"
         },
         "sortM2Asc": {
           "tr": "Alan: küçükten büyüğe",
           "en": "Area: small to large",
-          "ar": "المساحة: من الأصغر إلى الأكبر"
+          "ar": "المساحة: من الأصغر إلى الأكبر",
+          "de": "Fläche: von klein nach groß",
+          "ru": "Площадь: от меньшей к большей"
         },
         "resetFilters": {
           "tr": "Filtreleri temizle",
           "en": "Clear filters",
-          "ar": "مسح عوامل التصفية"
+          "ar": "مسح عوامل التصفية",
+          "de": "Filter zurücksetzen",
+          "ru": "Сбросить фильтры"
         },
         "resultCount": {
           "tr": {
@@ -1077,62 +1323,86 @@
         "noResultTitle": {
           "tr": "Sonuç bulunamadı",
           "en": "No results found",
-          "ar": "لم يتم العثور على نتائج"
+          "ar": "لم يتم العثور على نتائج",
+          "de": "Keine Ergebnisse gefunden",
+          "ru": "Ничего не найдено"
         },
         "noResultText": {
           "tr": "Filtreleri gevşetmeyi veya temizlemeyi deneyin.",
           "en": "Try loosening or clearing your filters.",
-          "ar": "جرّب تخفيف عوامل التصفية أو مسحها."
+          "ar": "جرّب تخفيف عوامل التصفية أو مسحها.",
+          "de": "Versuchen Sie, die Filter zu lockern oder zurückzusetzen.",
+          "ru": "Попробуйте ослабить или сбросить фильтры."
         },
         "pagesLabel": {
           "tr": "Sayfalama",
           "en": "Pagination",
-          "ar": "التنقل بين الصفحات"
+          "ar": "التنقل بين الصفحات",
+          "de": "Seitennavigation",
+          "ru": "Постраничная навигация"
         },
         "prevPage": {
           "tr": "Önceki sayfa",
           "en": "Previous page",
-          "ar": "الصفحة السابقة"
+          "ar": "الصفحة السابقة",
+          "de": "Vorherige Seite",
+          "ru": "Предыдущая страница"
         },
         "nextPage": {
           "tr": "Sonraki sayfa",
           "en": "Next page",
-          "ar": "الصفحة التالية"
+          "ar": "الصفحة التالية",
+          "de": "Nächste Seite",
+          "ru": "Следующая страница"
         },
         "pageN": {
           "tr": "Sayfa {n}",
           "en": "Page {n}",
-          "ar": "الصفحة {n}"
+          "ar": "الصفحة {n}",
+          "de": "Seite {n}",
+          "ru": "Страница {n}"
         },
         "permitLabel": {
           "tr": "Yetki belgesi no",
           "en": "Authorization certificate no.",
-          "ar": "رقم شهادة التفويض"
+          "ar": "رقم شهادة التفويض",
+          "de": "Zulassungsnummer",
+          "ru": "Номер разрешительного документа"
         },
         "permitDemo": {
           "tr": "Yetki belgesi no: örnek ilan (DEMO)",
           "en": "Authorization no.: sample listing (DEMO)",
-          "ar": "رقم شهادة التفويض: إعلان تجريبي (عرض توضيحي)"
+          "ar": "رقم شهادة التفويض: إعلان تجريبي (عرض توضيحي)",
+          "de": "Zulassungsnr.: Beispielanzeige (DEMO)",
+          "ru": "Номер разрешения: пример объявления (ДЕМО)"
         },
         "perMonth": {
           "tr": "/ ay",
           "en": "/ month",
-          "ar": "/ شهريًا"
+          "ar": "/ شهريًا",
+          "de": "/ month",
+          "ru": "/ month"
         },
         "details": {
           "tr": "İlan detayı",
           "en": "View listing",
-          "ar": "تفاصيل الإعلان"
+          "ar": "تفاصيل الإعلان",
+          "de": "Anzeigedetails",
+          "ru": "Детали объявления"
         },
         "dateLabel": {
           "tr": "İlan tarihi",
           "en": "Listed on",
-          "ar": "تاريخ الإعلان"
+          "ar": "تاريخ الإعلان",
+          "de": "Einschaltungsdatum",
+          "ru": "Дата размещения"
         },
         "demoNote": {
           "tr": "Bu sayfadaki ilanlar kurgusaldır; yetki belgesi numaraları örnektir (DEMO).",
           "en": "Listings on this page are fictional; authorization numbers are samples (DEMO).",
-          "ar": "الإعلانات في هذه الصفحة وهمية، وأرقام شهادات التفويض أمثلة فقط (عرض توضيحي)."
+          "ar": "الإعلانات في هذه الصفحة وهمية، وأرقام شهادات التفويض أمثلة فقط (عرض توضيحي).",
+          "de": "Die Anzeigen auf dieser Seite sind fiktiv; die Genehmigungsnummern sind Beispiele (DEMO).",
+          "ru": "Объявления на этой странице вымышлены; номера разрешений приведены в качестве примеров (DEMO)."
         }
       },
       "version": "1.0.0",
@@ -1149,27 +1419,37 @@
           "daire": {
             "tr": "Daire",
             "en": "Apartment",
-            "ar": "شقة"
+            "ar": "شقة",
+            "de": "Wohnung",
+            "ru": "Квартира"
           },
           "villa": {
             "tr": "Villa",
             "en": "Villa",
-            "ar": "فيلا"
+            "ar": "فيلا",
+            "de": "Villa",
+            "ru": "Villa"
           },
           "rezidans": {
             "tr": "Rezidans",
             "en": "Residence",
-            "ar": "مجمّع سكني"
+            "ar": "مجمّع سكني",
+            "de": "Residenz",
+            "ru": "Резиденция"
           },
           "arsa": {
             "tr": "Arsa",
             "en": "Land",
-            "ar": "أرض"
+            "ar": "أرض",
+            "de": "Grundstück",
+            "ru": "Участок"
           },
           "isyeri": {
             "tr": "İşyeri",
             "en": "Commercial",
-            "ar": "محل تجاري"
+            "ar": "محل تجاري",
+            "de": "Arbeitsplatz",
+            "ru": "Место работы"
           }
         },
         "listings": [
@@ -1178,7 +1458,9 @@
             "title": {
               "tr": "Deniz manzaralı 3+1 daire",
               "en": "3+1 apartment with sea view",
-              "ar": "شقة 3+1 بإطلالة بحرية"
+              "ar": "شقة 3+1 بإطلالة بحرية",
+              "de": "3+1-Wohnung mit Meerblick",
+              "ru": "Квартира 3+1 с видом на море"
             },
             "deal": "sale",
             "type": "daire",
@@ -1189,12 +1471,16 @@
             "city": {
               "tr": "İstanbul",
               "en": "Istanbul",
-              "ar": "إسطنبول"
+              "ar": "إسطنبول",
+              "de": "Istanbul",
+              "ru": "Стамбул"
             },
             "district": {
               "tr": "Kadıköy",
               "en": "Kadikoy",
-              "ar": "قاضي كوي"
+              "ar": "قاضي كوي",
+              "de": "Kadıköy",
+              "ru": "Кадыкёй"
             },
             "img": [],
             "permitNo": "DEMO-34-0001",
@@ -1203,7 +1489,9 @@
             "badge": {
               "tr": "Yeni",
               "en": "New",
-              "ar": "جديد"
+              "ar": "جديد",
+              "de": "Neu",
+              "ru": "Новинка"
             }
           },
           {
@@ -1211,7 +1499,9 @@
             "title": {
               "tr": "Bahçe katı 2+1 kiralık daire",
               "en": "2+1 garden-floor apartment for rent",
-              "ar": "شقة 2+1 في الطابق الأرضي مع حديقة للإيجار"
+              "ar": "شقة 2+1 في الطابق الأرضي مع حديقة للإيجار",
+              "de": "2+1-Mietwohnung im Gartengeschoss",
+              "ru": "Квартира 2+1 в аренду на садовом этаже"
             },
             "deal": "rent",
             "type": "daire",
@@ -1222,12 +1512,16 @@
             "city": {
               "tr": "Ankara",
               "en": "Ankara",
-              "ar": "أنقرة"
+              "ar": "أنقرة",
+              "de": "Ankara",
+              "ru": "Ankara"
             },
             "district": {
               "tr": "Çankaya",
               "en": "Cankaya",
-              "ar": "تشانكايا"
+              "ar": "تشانكايا",
+              "de": "Çankaya",
+              "ru": "Чанкая"
             },
             "img": [],
             "permitNo": "DEMO-06-0002",
@@ -1239,7 +1533,9 @@
             "title": {
               "tr": "Havuzlu müstakil villa",
               "en": "Detached villa with pool",
-              "ar": "فيلا مستقلة مع مسبح"
+              "ar": "فيلا مستقلة مع مسبح",
+              "de": "Freistehende Villa mit Pool",
+              "ru": "Отдельно стоящая вилла с бассейном"
             },
             "deal": "sale",
             "type": "villa",
@@ -1250,12 +1546,16 @@
             "city": {
               "tr": "Muğla",
               "en": "Mugla",
-              "ar": "موغلا"
+              "ar": "موغلا",
+              "de": "Muğla",
+              "ru": "Мугла"
             },
             "district": {
               "tr": "Bodrum",
               "en": "Bodrum",
-              "ar": "بودروم"
+              "ar": "بودروم",
+              "de": "Bodrum",
+              "ru": "Bodrum"
             },
             "img": [],
             "permitNo": "DEMO-48-0003",
@@ -1267,7 +1567,9 @@
             "title": {
               "tr": "Eşyalı 1+1 kiralık daire",
               "en": "Furnished 1+1 apartment for rent",
-              "ar": "شقة 1+1 مفروشة للإيجار"
+              "ar": "شقة 1+1 مفروشة للإيجار",
+              "de": "Möblierte 1+1-Wohnung zur Miete",
+              "ru": "Меблированная квартира 1+1 в аренду"
             },
             "deal": "rent",
             "type": "daire",
@@ -1278,12 +1580,16 @@
             "city": {
               "tr": "İzmir",
               "en": "Izmir",
-              "ar": "إزمير"
+              "ar": "إزمير",
+              "de": "İzmir",
+              "ru": "Измир"
             },
             "district": {
               "tr": "Karşıyaka",
               "en": "Karsiyaka",
-              "ar": "قارشيياكا"
+              "ar": "قارشيياكا",
+              "de": "Karşıyaka",
+              "ru": "Каршияка"
             },
             "img": [],
             "permitNo": "DEMO-35-0004",
@@ -1295,7 +1601,9 @@
             "title": {
               "tr": "İmarlı satılık arsa",
               "en": "Zoned plot for sale",
-              "ar": "أرض مخططة للبيع"
+              "ar": "أرض مخططة للبيع",
+              "de": "Baugrundstück mit Bebauungsplan zu verkaufen",
+              "ru": "Участок под застройку на продажу"
             },
             "deal": "sale",
             "type": "arsa",
@@ -1306,12 +1614,16 @@
             "city": {
               "tr": "İzmir",
               "en": "Izmir",
-              "ar": "إزمير"
+              "ar": "إزمير",
+              "de": "İzmir",
+              "ru": "Измир"
             },
             "district": {
               "tr": "Urla",
               "en": "Urla",
-              "ar": "أورلا"
+              "ar": "أورلا",
+              "de": "Urla",
+              "ru": "Urla"
             },
             "img": [],
             "permitNo": "DEMO-35-0005",
@@ -1323,7 +1635,9 @@
             "title": {
               "tr": "Cadde üstü kiralık dükkân",
               "en": "Street-front shop for rent",
-              "ar": "محل على الشارع الرئيسي للإيجار"
+              "ar": "محل على الشارع الرئيسي للإيجار",
+              "de": "Ladenlokal an der Hauptstraße zu vermieten",
+              "ru": "Магазин на главной улице в аренду"
             },
             "deal": "rent",
             "type": "isyeri",
@@ -1334,12 +1648,16 @@
             "city": {
               "tr": "İstanbul",
               "en": "Istanbul",
-              "ar": "إسطنبول"
+              "ar": "إسطنبول",
+              "de": "Istanbul",
+              "ru": "Стамбул"
             },
             "district": {
               "tr": "Şişli",
               "en": "Sisli",
-              "ar": "شيشلي"
+              "ar": "شيشلي",
+              "de": "Şişli",
+              "ru": "Шишли"
             },
             "img": [],
             "permitNo": "DEMO-34-0006",
@@ -1351,7 +1669,9 @@
             "title": {
               "tr": "Site içinde 2+1 daire",
               "en": "2+1 apartment in a gated complex",
-              "ar": "شقة 2+1 داخل مجمع سكني مسوّر"
+              "ar": "شقة 2+1 داخل مجمع سكني مسوّر",
+              "de": "2+1 Wohnung in einer Wohnanlage",
+              "ru": "Квартира 2+1 в закрытом комплексе"
             },
             "deal": "sale",
             "type": "daire",
@@ -1362,12 +1682,16 @@
             "city": {
               "tr": "Bursa",
               "en": "Bursa",
-              "ar": "بورصة"
+              "ar": "بورصة",
+              "de": "Bursa",
+              "ru": "Bursa"
             },
             "district": {
               "tr": "Nilüfer",
               "en": "Nilufer",
-              "ar": "نيلوفر"
+              "ar": "نيلوفر",
+              "de": "Nilüfer",
+              "ru": "Nilüfer"
             },
             "img": [],
             "permitNo": "DEMO-16-0007",
@@ -1379,7 +1703,9 @@
             "title": {
               "tr": "Merkezi konumda 1+1 rezidans",
               "en": "1+1 residence in a central location",
-              "ar": "وحدة 1+1 في مجمّع سكني بموقع مركزي"
+              "ar": "وحدة 1+1 في مجمّع سكني بموقع مركزي",
+              "de": "1+1-Residenz in zentraler Lage",
+              "ru": "Резиденция 1+1 в центральном районе"
             },
             "deal": "sale",
             "type": "rezidans",
@@ -1390,12 +1716,16 @@
             "city": {
               "tr": "İstanbul",
               "en": "Istanbul",
-              "ar": "إسطنبول"
+              "ar": "إسطنبول",
+              "de": "Istanbul",
+              "ru": "Стамбул"
             },
             "district": {
               "tr": "Beşiktaş",
               "en": "Besiktas",
-              "ar": "بشيكتاش"
+              "ar": "بشيكتاش",
+              "de": "Beşiktaş",
+              "ru": "Бешикташ"
             },
             "img": [],
             "permitNo": "DEMO-34-0008",
@@ -1424,22 +1754,30 @@
         "text": {
           "tr": "Bu demo {brand} tarafından hazırlanmıştır —",
           "en": "This demo was prepared by {brand} —",
-          "ar": "تم إعداد هذا العرض التجريبي بواسطة {brand} —"
+          "ar": "تم إعداد هذا العرض التجريبي بواسطة {brand} —",
+          "de": "Diese Demo wurde von {brand} erstellt —",
+          "ru": "Это демо подготовлено компанией {brand} —"
         },
         "ctaText": {
           "tr": "Bu temayı iste",
           "en": "Get this theme",
-          "ar": "اطلب هذا القالب"
+          "ar": "اطلب هذا القالب",
+          "de": "Dieses Thema anfordern",
+          "ru": "Заказать эту тему"
         },
         "newTabText": {
           "tr": "(yeni sekmede açılır)",
           "en": "(opens in a new tab)",
-          "ar": "(يفتح في علامة تبويب جديدة)"
+          "ar": "(يفتح في علامة تبويب جديدة)",
+          "de": "(öffnet in einem neuen Tab)",
+          "ru": "(открывается в новой вкладке)"
         },
         "ariaLabel": {
           "tr": "Demo bilgisi",
           "en": "Demo credit",
-          "ar": "معلومات العرض التجريبي"
+          "ar": "معلومات العرض التجريبي",
+          "de": "Demo-Hinweis",
+          "ru": "Демо-информация"
         }
       },
       "veri": {
@@ -1462,18 +1800,24 @@
         "logosizemobil": 200,
         "menuToggleAria": {
           "tr": "Menüyü aç/kapat",
-          "en": "Open or close menu"
+          "en": "Open or close menu",
+          "de": "Menü ein-/ausblenden",
+          "ru": "Показать/скрыть меню"
         },
         "menuCloseAria": {
           "tr": "Menüyü kapat",
-          "en": "Close menu"
+          "en": "Close menu",
+          "de": "Menü schließen",
+          "ru": "Закрыть меню"
         },
         "logo_acik": "logo-acik.svg",
         "logo_h": "44px",
         "cta": {
           "tr": "Ön görüşme",
           "en": "Consultation",
-          "ar": "استشارة"
+          "ar": "استشارة",
+          "de": "Beratung",
+          "ru": "Консультация"
         },
         "cta_url": "teklif-al"
       },
@@ -1482,7 +1826,9 @@
         {
           "name": {
             "tr": "Bizi hemen arayın",
-            "en": "Call us now"
+            "en": "Call us now",
+            "de": "Rufen Sie uns jetzt an",
+            "ru": "Позвоните нам прямо сейчас"
           },
           "spot": "+90 342 221 00 02",
           "icon": "phone",
@@ -1494,7 +1840,9 @@
         {
           "name": {
             "tr": "Bize yazın",
-            "en": "Email us"
+            "en": "Email us",
+            "de": "Schreiben Sie uns",
+            "ru": "Напишите нам"
           },
           "spot": "info@{{domain}}",
           "icon": "mail",
@@ -1506,7 +1854,9 @@
         {
           "name": {
             "tr": "İncilipınar Mah. Şehit Yusuf Erin Cad.",
-            "en": "Incilipinar District, Sehit Yusuf Erin St."
+            "en": "Incilipinar District, Sehit Yusuf Erin St.",
+            "de": "Incilipınar-Viertel, Şehit Yusuf Erin-Straße",
+            "ru": "Квартал Инчилипинар, ул. Шехит Юсуф Эрин"
           },
           "spot": "Çayırlı İş Mrk. B Blok Kat:6 No:22 Gaziantep",
           "icon": "location_on",
@@ -1553,7 +1903,9 @@
         "metin": {
           "tr": "Defne Hukuk, aile ve miras uyuşmazlıklarında süreci sade bir dille anlatan kurgusal bir demo bürodur. Bu site yalnızca bilgilendirme amaçlıdır; reklam niteliği taşımaz, hukuki görüş yerine geçmez. İçerik kurgusaldır.",
           "en": "Defne Law is a fictional demo office that explains family and inheritance proceedings in plain language. This site is for information only; it is not an advertisement and does not replace legal advice. Content is fictional.",
-          "ar": "دفنه للمحاماة مكتب تجريبي افتراضي يشرح إجراءات الأسرة والميراث بلغة بسيطة. هذا الموقع لأغراض إعلامية فقط؛ لا يُعدّ إعلانًا ولا يغني عن الاستشارة القانونية. المحتوى افتراضي."
+          "ar": "دفنه للمحاماة مكتب تجريبي افتراضي يشرح إجراءات الأسرة والميراث بلغة بسيطة. هذا الموقع لأغراض إعلامية فقط؛ لا يُعدّ إعلانًا ولا يغني عن الاستشارة القانونية. المحتوى افتراضي.",
+          "de": "Defne Hukuk ist eine fiktive Demo-Kanzlei, die Familien- und Erbstreitigkeiten verständlich erklärt. Diese Website dient nur der Information; sie ist keine Werbung und ersetzt keine Rechtsauskunft. Der Inhalt ist fiktiv.",
+          "ru": "Defne Hukuk — вымышленная демо-контора, которая простым языком объясняет порядок решения семейных и наследственных споров. Этот сайт носит исключительно информационный характер; он не является рекламой и не заменяет юридическое заключение. Содержание вымышленное."
         },
         "img": "hukuk-kitaplik.webp",
         "img2": "",
@@ -1562,7 +1914,9 @@
         "alt": {
           "tr": "Hukuk kitaplarıyla dolu ahşap raflar",
           "en": "Wooden shelves full of law books",
-          "ar": "رفوف خشبية مليئة بكتب القانون"
+          "ar": "رفوف خشبية مليئة بكتب القانون",
+          "de": "Holzregale voller Rechtsbücher",
+          "ru": "Деревянные полки, полные юридических книг"
         },
         "cta_ad": "",
         "cta_url": "",
@@ -1587,28 +1941,38 @@
         "eyebrow": {
           "tr": "Hukuk bürosu · Sayı 01",
           "en": "Law office · Issue 01",
-          "ar": "مكتب محاماة · العدد 01"
+          "ar": "مكتب محاماة · العدد 01",
+          "de": "Rechtsanwaltskanzlei · Ausgabe 01",
+          "ru": "Юридическая фирма · Выпуск 01"
         },
         "title": {
           "tr": "Aile, miras ve mülk: önce anlamak",
           "en": "Family, inheritance and property: understanding first",
-          "ar": "الأسرة والميراث والملكية: الفهم أولًا"
+          "ar": "الأسرة والميراث والملكية: الفهم أولًا",
+          "de": "Familie, Erbe und Eigentum: erst verstehen",
+          "ru": "Семья, наследство и собственность: сначала понять"
         },
         "cta1": {
           "tr": "Çalışma alanları",
           "en": "Practice areas",
-          "ar": "مجالات العمل"
+          "ar": "مجالات العمل",
+          "de": "Schwerpunkte",
+          "ru": "Направления"
         },
         "cta1_url": "hizmetler",
         "cta2": {
           "tr": "Ön görüşme talebi",
           "en": "Request a consultation",
-          "ar": "اطلب استشارة أولية"
+          "ar": "اطلب استشارة أولية",
+          "de": "Anfrage für ein Vorgespräch",
+          "ru": "Заявка на предварительную беседу"
         },
         "scroll_label": {
           "tr": "Aşağı kaydır",
           "en": "Scroll down",
-          "ar": "انزل للأسفل"
+          "ar": "انزل للأسفل",
+          "de": "Nach unten scrollen",
+          "ru": "Прокрутите вниз"
         }
       },
       "data": [],
@@ -1667,17 +2031,23 @@
         "badge": {
           "tr": "Çalışma alanları",
           "en": "Practice areas",
-          "ar": "مجالات العمل"
+          "ar": "مجالات العمل",
+          "de": "Schwerpunkte",
+          "ru": "Направления"
         },
         "title": {
           "tr": "Hangi dosyalarla ilgileniyoruz?",
           "en": "Which matters do we handle?",
-          "ar": "ما القضايا التي نتولاها؟"
+          "ar": "ما القضايا التي نتولاها؟",
+          "de": "Mit welchen Akten befassen wir uns?",
+          "ru": "Какими делами мы занимаемся?"
         },
         "description": {
           "tr": "Her dosya kendi koşullarıyla değerlendirilir; aşağıdaki başlıklar bilgilendirme amaçlıdır.",
           "en": "Each matter is assessed on its own facts; the headings below are for information only.",
-          "ar": "يُقيَّم كل ملف وفق ظروفه؛ العناوين أدناه لأغراض إعلامية فقط."
+          "ar": "يُقيَّم كل ملف وفق ظروفه؛ العناوين أدناه لأغراض إعلامية فقط.",
+          "de": "Jede Akte wird nach ihren eigenen Bedingungen beurteilt; die folgenden Überschriften dienen nur der Information.",
+          "ru": "Каждое дело рассматривается по его собственным условиям; приведённые ниже разделы носят информационный характер."
         }
       },
       "data": [
@@ -1686,12 +2056,16 @@
           "name": {
             "tr": "Boşanma ve velayet",
             "en": "Divorce and custody",
-            "ar": "الطلاق والحضانة"
+            "ar": "الطلاق والحضانة",
+            "de": "Scheidung und Sorgerecht",
+            "ru": "Развод и опека"
           },
           "description": {
             "tr": "Anlaşmalı ve çekişmeli boşanma, velayet, kişisel ilişki ve nafaka süreçleri.",
             "en": "Uncontested and contested divorce, custody, contact arrangements and maintenance.",
-            "ar": "الطلاق بالتراضي والمتنازع عليه، والحضانة، وترتيبات الزيارة، والنفقة."
+            "ar": "الطلاق بالتراضي والمتنازع عليه، والحضانة، وترتيبات الزيارة، والنفقة.",
+            "de": "Einvernehmliche und streitige Scheidungen, Sorgerecht, Umgangskontakte und Unterhaltsverfahren.",
+            "ru": "Согласованные и спорные разводы, опека, порядок общения и алиментные процессы."
           }
         },
         {
@@ -1699,12 +2073,16 @@
           "name": {
             "tr": "Miras ve vasiyet",
             "en": "Inheritance and wills",
-            "ar": "الميراث والوصايا"
+            "ar": "الميراث والوصايا",
+            "de": "Erbrecht und Testament",
+            "ru": "Наследство и завещание"
           },
           "description": {
             "tr": "Mirasçılık belgesi, tenkis, ortaklığın giderilmesi ve vasiyetname düzenleme.",
             "en": "Certificates of inheritance, reduction claims, partition and drafting wills.",
-            "ar": "شهادات الوراثة، ودعاوى الإنقاص، وإزالة الشيوع، وتحرير الوصايا."
+            "ar": "شهادات الوراثة، ودعاوى الإنقاص، وإزالة الشيوع، وتحرير الوصايا.",
+            "de": "Erbschein, Pflichtteilsergänzung, Auseinandersetzung einer Erbengemeinschaft und Testamentserstellung.",
+            "ru": "Свидетельство о праве на наследство, сокращение завещательных распоряжений, раздел общего имущества и составление завещания."
           }
         },
         {
@@ -1712,12 +2090,16 @@
           "name": {
             "tr": "Gayrimenkul ve tapu",
             "en": "Property and title deeds",
-            "ar": "العقارات وسندات الملكية"
+            "ar": "العقارات وسندات الملكية",
+            "de": "Immobilien und Grundbuch",
+            "ru": "Недвижимость и права собственности"
           },
           "description": {
             "tr": "Tapu iptal ve tescil, kat mülkiyeti, kira tespiti ve tahliye uyuşmazlıkları.",
             "en": "Title cancellation and registration, condominium, rent review and eviction disputes.",
-            "ar": "إلغاء السند وتسجيله، والملكية المشتركة، وتحديد الإيجار، ونزاعات الإخلاء."
+            "ar": "إلغاء السند وتسجيله، والملكية المشتركة، وتحديد الإيجار، ونزاعات الإخلاء.",
+            "de": "Urkundwiderruf und -erteilung, Wohnungseigentum, Mietanpassung und Räumungsklagen.",
+            "ru": "Оспаривание и регистрация права собственности, общая долевая собственность, пересмотр арендной платы и споры о выселении."
           }
         },
         {
@@ -1725,12 +2107,16 @@
           "name": {
             "tr": "Arabuluculuk hazırlığı",
             "en": "Mediation preparation",
-            "ar": "التحضير للوساطة"
+            "ar": "التحضير للوساطة",
+            "de": "Vorbereitung auf Mediation",
+            "ru": "Подготовка к медиации"
           },
           "description": {
             "tr": "Zorunlu arabuluculuk öncesi belge düzeni ve görüşme hazırlığı.",
             "en": "Document organisation and preparation before mandatory mediation.",
-            "ar": "تنظيم المستندات والتحضير قبل الوساطة الإلزامية."
+            "ar": "تنظيم المستندات والتحضير قبل الوساطة الإلزامية.",
+            "de": "Unterlagenordnung und Gesprächsvorbereitung vor der obligatorischen Mediation.",
+            "ru": "Порядок в документах и подготовка к встрече перед обязательной медиацией."
           }
         },
         {
@@ -1738,12 +2124,16 @@
           "name": {
             "tr": "Sözleşme incelemesi",
             "en": "Contract review",
-            "ar": "مراجعة العقود"
+            "ar": "مراجعة العقود",
+            "de": "Vertragsprüfung",
+            "ru": "Проверка договоров"
           },
           "description": {
             "tr": "Satış, kira ve aile içi mal paylaşımı sözleşmelerinin incelenmesi.",
             "en": "Review of sale, lease and family property-sharing agreements.",
-            "ar": "مراجعة عقود البيع والإيجار وتقاسم الممتلكات العائلية."
+            "ar": "مراجعة عقود البيع والإيجار وتقاسم الممتلكات العائلية.",
+            "de": "Prüfung von Kauf-, Miet- und Familienvermögensaufteilungverträgen.",
+            "ru": "Проверка договоров купли-продажи, аренды и раздела семейного имущества."
           }
         },
         {
@@ -1751,12 +2141,16 @@
           "name": {
             "tr": "Dava takibi",
             "en": "Litigation support",
-            "ar": "متابعة الدعاوى"
+            "ar": "متابعة الدعاوى",
+            "de": "Verfahrensbegleitung",
+            "ru": "Сопровождение судебных дел"
           },
           "description": {
             "tr": "Dilekçe, duruşma ve icra aşamalarında dosyanın düzenli takibi.",
             "en": "Orderly follow-up of the file through pleadings, hearings and enforcement.",
-            "ar": "متابعة منظّمة للملف في مراحل اللوائح والجلسات والتنفيذ."
+            "ar": "متابعة منظّمة للملف في مراحل اللوائح والجلسات والتنفيذ.",
+            "de": "Ordnungsgemäße Nachverfolgung der Akte durch Klagen, Verhandlungen und Zwangsvollstreckung.",
+            "ru": "Систематическое отслеживание дела на этапах подачи иска, слушаний и принудительного исполнения."
           }
         }
       ],
@@ -1817,17 +2211,23 @@
         "badge": {
           "tr": "Görüşme nasıl ilerler?",
           "en": "How a consultation works",
-          "ar": "كيف تسير الاستشارة؟"
+          "ar": "كيف تسير الاستشارة؟",
+          "de": "Wie läuft das Gespräch ab?",
+          "ru": "Как проходит встреча?"
         },
         "title": {
           "tr": "Talepten yol haritasına",
           "en": "From request to roadmap",
-          "ar": "من الطلب إلى خارطة الطريق"
+          "ar": "من الطلب إلى خارطة الطريق",
+          "de": "Von der Anfrage zur Roadmap",
+          "ru": "От запроса до дорожной карты"
         },
         "description": {
           "tr": "Dört adımda ilk görüşme süreci.",
           "en": "The first-meeting process in four steps.",
-          "ar": "مسار اللقاء الأول في أربع خطوات."
+          "ar": "مسار اللقاء الأول في أربع خطوات.",
+          "de": "Der Prozess des Erstgesprächs in vier Schritten.",
+          "ru": "Процесс первой встречи в четыре шага."
         }
       },
       "data": [
@@ -1836,12 +2236,16 @@
           "title": {
             "tr": "Ön görüşme talebi",
             "en": "Consultation request",
-            "ar": "طلب الاستشارة"
+            "ar": "طلب الاستشارة",
+            "de": "Anfrage für ein Vorgespräch",
+            "ru": "Заявка на предварительную беседу"
           },
           "text": {
             "tr": "Konuyu kısaca yazarsınız; uygun gün ve saat önerilir.",
             "en": "You briefly describe the matter; a suitable day and time is proposed.",
-            "ar": "تصف المسألة باختصار؛ ويُقترح يوم ووقت مناسبان."
+            "ar": "تصف المسألة باختصار؛ ويُقترح يوم ووقت مناسبان.",
+            "de": "Sie beschreiben die Angelegenheit kurz; es wird ein geeigneter Tag und eine Uhrzeit vorgeschlagen.",
+            "ru": "Вы кратко описываете вопрос; предлагается подходящий день и время."
           }
         },
         {
@@ -1849,12 +2253,16 @@
           "title": {
             "tr": "Belge incelemesi",
             "en": "Document review",
-            "ar": "مراجعة المستندات"
+            "ar": "مراجعة المستندات",
+            "de": "Dokumentenprüfung",
+            "ru": "Проверка документов"
           },
           "text": {
             "tr": "Tapu, nüfus kaydı ve yazışmalar birlikte gözden geçirilir.",
             "en": "Deeds, civil registry records and correspondence are reviewed together.",
-            "ar": "تُراجع سندات الملكية وسجلات النفوس والمراسلات معًا."
+            "ar": "تُراجع سندات الملكية وسجلات النفوس والمراسلات معًا.",
+            "de": "Grundbuchauszug, Melderegister und Schriftwechsel werden gemeinsam durchgesehen.",
+            "ru": "Документы на землю, запись о регистрации и переписка просматриваются вместе."
           }
         },
         {
@@ -1862,12 +2270,16 @@
           "title": {
             "tr": "Yol haritası",
             "en": "Roadmap",
-            "ar": "خارطة الطريق"
+            "ar": "خارطة الطريق",
+            "de": "Anfahrt",
+            "ru": "Как нас найти"
           },
           "text": {
             "tr": "Seçenekler, süreler ve olası masraflar yazılı olarak anlatılır.",
             "en": "Options, timelines and possible costs are explained in writing.",
-            "ar": "تُشرح الخيارات والمدد والتكاليف المحتملة كتابيًا."
+            "ar": "تُشرح الخيارات والمدد والتكاليف المحتملة كتابيًا.",
+            "de": "Optionen, Zeiträume und mögliche Kosten werden schriftlich erläutert.",
+            "ru": "Варианты, сроки и возможные расходы объясняются в письменной форме."
           }
         },
         {
@@ -1875,12 +2287,16 @@
           "title": {
             "tr": "Süreç takibi",
             "en": "Ongoing follow-up",
-            "ar": "متابعة الإجراءات"
+            "ar": "متابعة الإجراءات",
+            "de": "Prozessverfolgung",
+            "ru": "Отслеживание процесса"
           },
           "text": {
             "tr": "Her aşamada yazılı bilgilendirme yapılır.",
             "en": "You receive written updates at every stage.",
-            "ar": "تتلقى تحديثات مكتوبة في كل مرحلة."
+            "ar": "تتلقى تحديثات مكتوبة في كل مرحلة.",
+            "de": "In jeder Phase erhalten Sie schriftliche Informationen.",
+            "ru": "На каждом этапе мы письменно информируем вас."
           }
         }
       ],
@@ -1943,17 +2359,23 @@
         "badge": {
           "tr": "Avukatlarımız",
           "en": "Our lawyers",
-          "ar": "محامونا"
+          "ar": "محامونا",
+          "de": "Unsere Anwälte",
+          "ru": "Наши юристы"
         },
         "title": {
           "tr": "Dosyanızla ilgilenecek ekip",
           "en": "The team who will handle your file",
-          "ar": "الفريق الذي سيتولى ملفك"
+          "ar": "الفريق الذي سيتولى ملفك",
+          "de": "Das Team, das sich um Ihre Akte kümmert",
+          "ru": "Команда, которая займётся вашим делом"
         },
         "description": {
           "tr": "Kurgusal profiller; portre kullanılmaz.",
           "en": "Fictional profiles; no portraits are used.",
-          "ar": "ملفات افتراضية؛ لا تُستخدم صور شخصية."
+          "ar": "ملفات افتراضية؛ لا تُستخدم صور شخصية.",
+          "de": "Fiktive Profile; es werden keine Porträts verwendet.",
+          "ru": "Вымышленные профили; портреты не используются."
         }
       },
       "data": [
@@ -1962,12 +2384,16 @@
           "role": {
             "tr": "Kurucu avukat · aile ve miras",
             "en": "Founding lawyer · family & inheritance",
-            "ar": "محامية مؤسسة · الأسرة والميراث"
+            "ar": "محامية مؤسسة · الأسرة والميراث",
+            "de": "Gründende Anwältin bzw. Anwalt · Familien- und Erbrecht",
+            "ru": "Адвокат-основатель · семейное и наследственное право"
           },
           "bio": {
             "tr": "Gaziantep Barosu (kurgusal profil). Türkçe, İngilizce.",
             "en": "Gaziantep Bar (fictional profile). Turkish, English.",
-            "ar": "نقابة محامي غازي عنتاب (ملف افتراضي). التركية والإنجليزية."
+            "ar": "نقابة محامي غازي عنتاب (ملف افتراضي). التركية والإنجليزية.",
+            "de": "Gaziantep Bar (fiktives Profil). Türkisch, Englisch.",
+            "ru": "Газинтепская коллегия адвокатов (вымышленный профиль). Турецкий, английский."
           },
           "img": ""
         },
@@ -1976,12 +2402,16 @@
           "role": {
             "tr": "Avukat · gayrimenkul",
             "en": "Lawyer · property",
-            "ar": "محامٍ · العقارات"
+            "ar": "محامٍ · العقارات",
+            "de": "Anwalt · Immobilien",
+            "ru": "Юрист · Недвижимость"
           },
           "bio": {
             "tr": "Gaziantep Barosu (kurgusal profil). Türkçe, Arapça.",
             "en": "Gaziantep Bar (fictional profile). Turkish, Arabic.",
-            "ar": "نقابة محامي غازي عنتاب (ملف افتراضي). التركية والعربية."
+            "ar": "نقابة محامي غازي عنتاب (ملف افتراضي). التركية والعربية.",
+            "de": "Gaziantep Anwaltskammer (fiktives Profil). Türkisch, Arabisch.",
+            "ru": "Адвокатская палата Газиантепа (вымышленный профиль). Турецкий, арабский."
           },
           "img": ""
         },
@@ -1990,12 +2420,16 @@
           "role": {
             "tr": "Avukat · sözleşmeler ve arabuluculuk",
             "en": "Lawyer · contracts & mediation",
-            "ar": "محامية · العقود والوساطة"
+            "ar": "محامية · العقود والوساطة",
+            "de": "Rechtsanwalt · Verträge und Mediation",
+            "ru": "Адвокат · договоры и медиация"
           },
           "bio": {
             "tr": "Gaziantep Barosu (kurgusal profil). Türkçe, Almanca.",
             "en": "Gaziantep Bar (fictional profile). Turkish, German.",
-            "ar": "نقابة محامي غازي عنتاب (ملف افتراضي). التركية والألمانية."
+            "ar": "نقابة محامي غازي عنتاب (ملف افتراضي). التركية والألمانية.",
+            "de": "Anwaltskammer Gaziantep (fiktives Profil). Türkisch, Deutsch.",
+            "ru": "Коллегия адвокатов Газиантепа (вымышленный профиль). Турецкий, немецкий."
           },
           "img": ""
         }
@@ -2063,17 +2497,23 @@
         "badge": {
           "tr": "Terimler",
           "en": "Glossary",
-          "ar": "المصطلحات"
+          "ar": "المصطلحات",
+          "de": "Begriffe",
+          "ru": "Термины"
         },
         "title": {
           "tr": "Sık geçen hukuk terimleri",
           "en": "Common legal terms",
-          "ar": "مصطلحات قانونية شائعة"
+          "ar": "مصطلحات قانونية شائعة",
+          "de": "Häufige juristische Begriffe",
+          "ru": "Часто встречающиеся юридические термины"
         },
         "description": {
           "tr": "Bu site yalnızca bilgilendirme amaçlıdır; reklam niteliği taşımaz, hukuki görüş yerine geçmez. İçerik kurgusaldır.",
           "en": "This site is for information only; it is not an advertisement and does not replace legal advice. Content is fictional.",
-          "ar": "هذا الموقع لأغراض إعلامية فقط؛ لا يُعدّ إعلانًا ولا يغني عن الاستشارة القانونية. المحتوى افتراضي."
+          "ar": "هذا الموقع لأغراض إعلامية فقط؛ لا يُعدّ إعلانًا ولا يغني عن الاستشارة القانونية. المحتوى افتراضي.",
+          "de": "Diese Website dient nur der Information; sie hat keinen Werbecharakter und ersetzt keine Rechtsauskunft. Die Inhalte sind fiktiv.",
+          "ru": "Этот сайт носит исключительно информационный характер; он не является рекламой и не заменяет юридическое заключение. Содержание условное."
         }
       },
       "data": [
@@ -2081,88 +2521,120 @@
           "question": {
             "tr": "Tenkis",
             "en": "Reduction claim (tenkis)",
-            "ar": "دعوى الإنقاص"
+            "ar": "دعوى الإنقاص",
+            "de": "Tenkis",
+            "ru": "Tenkis"
           },
           "answer": {
             "tr": "Saklı pay sahibi mirasçının, payını aşan bağış ya da vasiyete karşı açtığı davadır.",
             "en": "A claim by an heir with a reserved share against gifts or bequests exceeding the disposable portion.",
-            "ar": "دعوى يرفعها الوارث صاحب الحصة المحفوظة ضد الهبات أو الوصايا التي تتجاوز الحصة القابلة للتصرف."
+            "ar": "دعوى يرفعها الوارث صاحب الحصة المحفوظة ضد الهبات أو الوصايا التي تتجاوز الحصة القابلة للتصرف.",
+            "de": "Eine Klage eines Erben mit Pflichtteil gegen Schenkungen oder Vermächtnisse, die den verfügbaren Teil überschreiten.",
+            "ru": "Иск наследника с обязательной долей против дарений или завещаний, превышающих распоряжаемую часть."
           },
           "soru": {
             "tr": "Tenkis",
             "en": "Reduction claim (tenkis)",
-            "ar": "دعوى الإنقاص"
+            "ar": "دعوى الإنقاص",
+            "de": "Tenkis",
+            "ru": "Tenkis"
           },
           "cevap": {
             "tr": "Saklı pay sahibi mirasçının, payını aşan bağış ya da vasiyete karşı açtığı davadır.",
             "en": "A claim by an heir with a reserved share against gifts or bequests exceeding the disposable portion.",
-            "ar": "دعوى يرفعها الوارث صاحب الحصة المحفوظة ضد الهبات أو الوصايا التي تتجاوز الحصة القابلة للتصرف."
+            "ar": "دعوى يرفعها الوارث صاحب الحصة المحفوظة ضد الهبات أو الوصايا التي تتجاوز الحصة القابلة للتصرف.",
+            "de": "Eine Klage eines Erben mit Pflichtteil gegen Schenkungen oder Vermächtnisse, die den verfügbaren Teil überschreiten.",
+            "ru": "Иск наследника с обязательной долей против дарений или завещаний, превышающих распоряжаемую часть."
           }
         },
         {
           "question": {
             "tr": "Ortaklığın giderilmesi",
             "en": "Partition of co-owned property",
-            "ar": "إزالة الشيوع"
+            "ar": "إزالة الشيوع",
+            "de": "Aufhebung der Gemeinschaftseigentum",
+            "ru": "Раздел имущества, находящегося в долевой собственности"
           },
           "answer": {
             "tr": "Paylı mülkiyetteki taşınmazın aynen bölünmesi ya da satılarak paydaşlar arasında paylaştırılmasıdır.",
             "en": "Physically dividing co-owned property or selling it and sharing the proceeds among co-owners.",
-            "ar": "قسمة العقار المملوك على الشيوع عينيًا أو بيعه وتوزيع الثمن بين الشركاء."
+            "ar": "قسمة العقار المملوك على الشيوع عينيًا أو بيعه وتوزيع الثمن بين الشركاء.",
+            "de": "Die Teilung eines im Miteigentum stehenden Grundstücks in Natur oder durch Verkauf und Aufteilung des Erlöses unter den Miteigentümern.",
+            "ru": "Раздел недвижимости, находящейся в долевой собственности, в натуре либо путём продажи с распределением выручки между совладельцами."
           },
           "soru": {
             "tr": "Ortaklığın giderilmesi",
             "en": "Partition of co-owned property",
-            "ar": "إزالة الشيوع"
+            "ar": "إزالة الشيوع",
+            "de": "Aufhebung der Gemeinschaftseigentum",
+            "ru": "Раздел имущества, находящегося в долевой собственности"
           },
           "cevap": {
             "tr": "Paylı mülkiyetteki taşınmazın aynen bölünmesi ya da satılarak paydaşlar arasında paylaştırılmasıdır.",
             "en": "Physically dividing co-owned property or selling it and sharing the proceeds among co-owners.",
-            "ar": "قسمة العقار المملوك على الشيوع عينيًا أو بيعه وتوزيع الثمن بين الشركاء."
+            "ar": "قسمة العقار المملوك على الشيوع عينيًا أو بيعه وتوزيع الثمن بين الشركاء.",
+            "de": "Die Teilung eines im Miteigentum stehenden Grundstücks in Natur oder durch Verkauf und Aufteilung des Erlöses unter den Miteigentümern.",
+            "ru": "Раздел недвижимости, находящейся в долевой собственности, в натуре либо путём продажи с распределением выручки между совладельцами."
           }
         },
         {
           "question": {
             "tr": "Kişisel ilişki",
             "en": "Contact arrangement",
-            "ar": "ترتيب الزيارة"
+            "ar": "ترتيب الزيارة",
+            "de": "Persönliche Kontaktaufnahme",
+            "ru": "Личный контакт"
           },
           "answer": {
             "tr": "Velayeti almayan ebeveynin çocukla görüşme düzeninin mahkemece belirlenmesidir.",
             "en": "The court-set schedule for the non-custodial parent to spend time with the child.",
-            "ar": "الجدول الذي تحدده المحكمة لالتقاء الوالد غير الحاضن بالطفل."
+            "ar": "الجدول الذي تحدده المحكمة لالتقاء الوالد غير الحاضن بالطفل.",
+            "de": "Gerichtliche Festlegung der Umgangsregelung des nicht sorgeberechtigten Elternteils mit dem Kind.",
+            "ru": "Определение судом порядка общения с ребёнком родителя, с которым ребёнок не проживает."
           },
           "soru": {
             "tr": "Kişisel ilişki",
             "en": "Contact arrangement",
-            "ar": "ترتيب الزيارة"
+            "ar": "ترتيب الزيارة",
+            "de": "Persönliche Kontaktaufnahme",
+            "ru": "Личный контакт"
           },
           "cevap": {
             "tr": "Velayeti almayan ebeveynin çocukla görüşme düzeninin mahkemece belirlenmesidir.",
             "en": "The court-set schedule for the non-custodial parent to spend time with the child.",
-            "ar": "الجدول الذي تحدده المحكمة لالتقاء الوالد غير الحاضن بالطفل."
+            "ar": "الجدول الذي تحدده المحكمة لالتقاء الوالد غير الحاضن بالطفل.",
+            "de": "Gerichtliche Festlegung der Umgangsregelung des nicht sorgeberechtigten Elternteils mit dem Kind.",
+            "ru": "Определение судом порядка общения с ребёнком родителя, с которым ребёнок не проживает."
           }
         },
         {
           "question": {
             "tr": "Mirasçılık belgesi",
             "en": "Certificate of inheritance",
-            "ar": "شهادة الوراثة"
+            "ar": "شهادة الوراثة",
+            "de": "Erbschein",
+            "ru": "Свидетельство о праве на наследство"
           },
           "answer": {
             "tr": "Mirasçıları ve paylarını gösteren, noterden ya da sulh hukuk mahkemesinden alınan belgedir.",
             "en": "A document showing the heirs and their shares, issued by a notary or civil court of peace.",
-            "ar": "وثيقة تبيّن الورثة وحصصهم، تصدر عن كاتب العدل أو محكمة الصلح المدنية."
+            "ar": "وثيقة تبيّن الورثة وحصصهم، تصدر عن كاتب العدل أو محكمة الصلح المدنية.",
+            "de": "Ein Dokument, das die Erben und ihre Anteile zeigt, ausgestellt von einem Notar oder dem Friedensgericht.",
+            "ru": "Документ, указывающий наследников и их доли, выданный нотариусом или мировым судом."
           },
           "soru": {
             "tr": "Mirasçılık belgesi",
             "en": "Certificate of inheritance",
-            "ar": "شهادة الوراثة"
+            "ar": "شهادة الوراثة",
+            "de": "Erbschein",
+            "ru": "Свидетельство о праве на наследство"
           },
           "cevap": {
             "tr": "Mirasçıları ve paylarını gösteren, noterden ya da sulh hukuk mahkemesinden alınan belgedir.",
             "en": "A document showing the heirs and their shares, issued by a notary or civil court of peace.",
-            "ar": "وثيقة تبيّن الورثة وحصصهم، تصدر عن كاتب العدل أو محكمة الصلح المدنية."
+            "ar": "وثيقة تبيّن الورثة وحصصهم، تصدر عن كاتب العدل أو محكمة الصلح المدنية.",
+            "de": "Ein Dokument, das die Erben und ihre Anteile zeigt, ausgestellt von einem Notar oder dem Friedensgericht.",
+            "ru": "Документ, указывающий наследников и их доли, выданный нотариусом или мировым судом."
           }
         }
       ],
@@ -2231,40 +2703,54 @@
         "address": {
           "tr": "Atatürk Bulvarı No: 41 Kat: 2, Şehitkamil, Gaziantep (kurgusal adres)",
           "en": "41 Ataturk Boulevard, Floor 2, Sehitkamil, Gaziantep (fictional address)",
-          "ar": "جادة أتاتورك رقم 41، الطابق 2، شهيد كامل، غازي عنتاب (عنوان افتراضي)"
+          "ar": "جادة أتاتورك رقم 41، الطابق 2، شهيد كامل، غازي عنتاب (عنوان افتراضي)",
+          "de": "Atatürk Bulvarı No: 41 Kat: 2, Şehitkamil, Gaziantep (fiktive Adresse)",
+          "ru": "Atatürk Bulvarı No: 41 Kat: 2, Шехиткамиль, Газиантеп (вымышленный адрес)"
         },
         "phone": "+90 342 030 02 02",
         "email": "gorusme@defnehukuk.example",
         "hours": {
           "tr": "Pzt–Cum 09:30 – 18:00 (randevulu)",
           "en": "Mon–Fri 09:30 – 18:00 (by appointment)",
-          "ar": "الاثنين–الجمعة 09:30 – 18:00 (بموعد مسبق)"
+          "ar": "الاثنين–الجمعة 09:30 – 18:00 (بموعد مسبق)",
+          "de": "Mo–Fr 09:30 – 18:00 (nach Termin)",
+          "ru": "Пн–Пт 09:30 – 18:00 (по записи)"
         },
         "social": [],
         "title": {
           "tr": "Ön görüşme talebi",
           "en": "Consultation request",
-          "ar": "طلب استشارة أولية"
+          "ar": "طلب استشارة أولية",
+          "de": "Anfrage für ein Vorgespräch",
+          "ru": "Заявка на предварительную беседу"
         },
         "description": {
           "tr": "Konuyu seçin, kısaca yazın; iki iş günü içinde uygun zaman önerilir. Form demodur; e-posta istemciniz açılır, veri saklanmaz.",
           "en": "Choose a topic and write briefly; a suitable time is proposed within two business days. The form is a demo; your mail client opens and no data is stored.",
-          "ar": "اختر الموضوع واكتب باختصار؛ يُقترح وقت مناسب خلال يومي عمل. النموذج تجريبي؛ يُفتح بريدك الإلكتروني ولا تُحفظ البيانات."
+          "ar": "اختر الموضوع واكتب باختصار؛ يُقترح وقت مناسب خلال يومي عمل. النموذج تجريبي؛ يُفتح بريدك الإلكتروني ولا تُحفظ البيانات.",
+          "de": "Wählen Sie das Thema und schreiben Sie kurz; innerhalb von zwei Werktagen wird ein passender Zeitpunkt vorgeschlagen. Das Formular ist eine Demo; Ihr E-Mail-Programm öffnet sich, es werden keine Daten gespeichert.",
+          "ru": "Выберите тему и коротко опишите её; в течение двух рабочих дней вам предложат подходящее время. Форма демонстрационная; откроется ваш почтовый клиент, данные не сохраняются."
         },
         "panelTitle": {
           "tr": "Defne Hukuk",
           "en": "Defne Hukuk",
-          "ar": "Defne Hukuk"
+          "ar": "Defne Hukuk",
+          "de": "Defne Hukuk",
+          "ru": "Defne Hukuk"
         },
         "panelText": {
           "tr": "Görseller temsilidir; bu bir kurulum demosudur.",
           "en": "Images are representative; this is a setup demo.",
-          "ar": "الصور تمثيلية وهذا عرض تجريبي."
+          "ar": "الصور تمثيلية وهذا عرض تجريبي.",
+          "de": "Die Bilder sind symbolisch; dies ist eine Einrichtungs-Demo.",
+          "ru": "Изображения условные; это демонстрация установки."
         },
         "formTitle": {
           "tr": "Teklif formu",
           "en": "Quote form",
-          "ar": "نموذج الطلب"
+          "ar": "نموذج الطلب",
+          "de": "Angebotsformular",
+          "ru": "Форма запроса предложения"
         },
         "subjects": [
           {
@@ -2272,7 +2758,9 @@
             "name": {
               "tr": "Boşanma / velayet",
               "en": "Divorce / custody",
-              "ar": "الطلاق / الحضانة"
+              "ar": "الطلاق / الحضانة",
+              "de": "Scheidung / Sorgerecht",
+              "ru": "Развод / опека"
             }
           },
           {
@@ -2280,7 +2768,9 @@
             "name": {
               "tr": "Miras",
               "en": "Inheritance",
-              "ar": "الميراث"
+              "ar": "الميراث",
+              "de": "Erbe",
+              "ru": "Наследство"
             }
           },
           {
@@ -2288,7 +2778,9 @@
             "name": {
               "tr": "Gayrimenkul",
               "en": "Property",
-              "ar": "العقارات"
+              "ar": "العقارات",
+              "de": "Immobilien",
+              "ru": "Недвижимость"
             }
           },
           {
@@ -2296,19 +2788,25 @@
             "name": {
               "tr": "Diğer",
               "en": "Other",
-              "ar": "أخرى"
+              "ar": "أخرى",
+              "de": "Sonstiges",
+              "ru": "Другое"
             }
           }
         ],
         "kvkkText": {
           "tr": "Kişisel verilerimin bu talebin yanıtlanması amacıyla işlenmesine ilişkin aydınlatma metnini okudum.",
           "en": "I have read the privacy notice on how my personal data is processed to answer this request.",
-          "ar": "لقد قرأت إشعار الخصوصية المتعلق بمعالجة بياناتي الشخصية للرد على هذا الطلب."
+          "ar": "لقد قرأت إشعار الخصوصية المتعلق بمعالجة بياناتي الشخصية للرد على هذا الطلب.",
+          "de": "Ich habe die Datenschutzerklärung zur Verarbeitung meiner personenbezogenen Daten zur Beantwortung dieser Anfrage gelesen.",
+          "ru": "Я ознакомился(лась) с уведомлением о конфиденциальности об обработке моих персональных данных для ответа на этот запрос."
         },
         "kvkkLinkText": {
           "tr": "Aydınlatma metni",
           "en": "Privacy notice",
-          "ar": "إشعار الخصوصية"
+          "ar": "إشعار الخصوصية",
+          "de": "Datenschutzhinweis",
+          "ru": "Информация об обработке данных"
         },
         "kvkkHref": "kisiselveriler"
       },
@@ -2372,38 +2870,52 @@
         "title": {
           "tr": "Hakkımızda",
           "en": "About us",
-          "ar": "من نحن"
+          "ar": "من نحن",
+          "de": "Über uns",
+          "ru": "О нас"
         },
         "name": {
           "tr": "Defne Hukuk",
           "en": "Defne Hukuk",
-          "ar": "Defne Hukuk"
+          "ar": "Defne Hukuk",
+          "de": "Defne Hukuk",
+          "ru": "Defne Hukuk"
         },
         "description": {
           "tr": "Defne Hukuk, aile, miras ve gayrimenkul hukukunda bireylere danışmanlık veren kurgusal bir demo bürodur. Dosyaları az sayıda tutar, her aşamayı yazılı anlatır. Bu site yalnızca bilgilendirme amaçlıdır; reklam niteliği taşımaz, hukuki görüş yerine geçmez. İçerik kurgusaldır.",
           "en": "Defne Law is a fictional demo office advising individuals on family, inheritance and property law. It keeps a small caseload and explains each stage in writing. This site is for information only; it is not an advertisement and does not replace legal advice. Content is fictional.",
-          "ar": "دفنه للمحاماة مكتب تجريبي افتراضي يقدّم الاستشارة للأفراد في قانون الأسرة والميراث والعقارات، ويحتفظ بعدد محدود من الملفات ويشرح كل مرحلة كتابيًا. هذا الموقع لأغراض إعلامية فقط؛ لا يُعدّ إعلانًا ولا يغني عن الاستشارة القانونية. المحتوى افتراضي."
+          "ar": "دفنه للمحاماة مكتب تجريبي افتراضي يقدّم الاستشارة للأفراد في قانون الأسرة والميراث والعقارات، ويحتفظ بعدد محدود من الملفات ويشرح كل مرحلة كتابيًا. هذا الموقع لأغراض إعلامية فقط؛ لا يُعدّ إعلانًا ولا يغني عن الاستشارة القانونية. المحتوى افتراضي.",
+          "de": "Defne Hukuk ist ein fiktives Demo-Büro, das Einzelpersonen in Familien-, Erbrecht und Immobilienrecht berät. Es führt nur wenige Fälle und erklärt jede Stufe schriftlich. Diese Website dient nur der Information; sie ist keine Werbung und ersetzt keine Rechtsberatung. Inhalt ist fiktiv.",
+          "ru": "Defne Hukuk — вымышленная демонстрационная фирма, консультирующая частных лиц по семейному, наследственному и имущественному праву. Ведёт небольшое количество дел и описывает каждый этап письменно. Сайт носит исключительно информационный характер; не является рекламой и не заменяет юридическую консультацию. Контент вымышленный."
         },
         "name2": {
           "tr": "Yazılı bilgilendirme",
           "en": "Written updates",
-          "ar": "تحديثات مكتوبة"
+          "ar": "تحديثات مكتوبة",
+          "de": "Schriftliche Information",
+          "ru": "Письменная информация"
         },
         "spot2": {
           "tr": "Her duruşma ve yazışmadan sonra kısa not.",
           "en": "A short note after every hearing and letter.",
-          "ar": "ملاحظة موجزة بعد كل جلسة ومراسلة."
+          "ar": "ملاحظة موجزة بعد كل جلسة ومراسلة.",
+          "de": "Nach jeder Verhandlung und jedem Schriftwechsel eine kurze Notiz.",
+          "ru": "Краткая заметка после каждого заседания и переписки."
         },
         "icon2": "edit_note",
         "name3": {
           "tr": "Gizlilik",
           "en": "Confidentiality",
-          "ar": "السرية"
+          "ar": "السرية",
+          "de": "Datenschutz",
+          "ru": "Конфиденциальность"
         },
         "spot3": {
           "tr": "Avukatlık Kanunu gereği sır saklama yükümlülüğü.",
           "en": "Professional secrecy under the Attorneyship Law.",
-          "ar": "واجب كتمان السر وفق قانون المحاماة."
+          "ar": "واجب كتمان السر وفق قانون المحاماة.",
+          "de": "Verschwiegenheitspflicht nach dem Anwaltsgesetz.",
+          "ru": "Обязанность хранить тайну в соответствии с Законом об адвокатуре."
         },
         "icon3": "lock"
       },
@@ -2459,27 +2971,37 @@
         "waLabel": {
           "tr": "Mesaj gönder",
           "en": "Send a message",
-          "ar": "أرسل رسالة"
+          "ar": "أرسل رسالة",
+          "de": "Nachricht senden",
+          "ru": "Отправить сообщение"
         },
         "waTitle": {
           "tr": "WhatsApp ile yazın",
           "en": "Write on WhatsApp",
-          "ar": "راسلنا عبر واتساب"
+          "ar": "راسلنا عبر واتساب",
+          "de": "Schreiben Sie per WhatsApp",
+          "ru": "Напишите в WhatsApp"
         },
         "waMessage": {
           "tr": "Merhaba, Defne Hukuk ile ön görüşme talep etmek istiyorum.",
           "en": "Hello, I would like to request an initial consultation with Defne Law.",
-          "ar": "مرحبًا، أودّ طلب استشارة أولية مع دفنه للمحاماة."
+          "ar": "مرحبًا، أودّ طلب استشارة أولية مع دفنه للمحاماة.",
+          "de": "Guten Tag, ich möchte ein Vorgespräch mit Defne Hukuk vereinbaren.",
+          "ru": "Здравствуйте, я хотел бы запросить предварительную консультацию в Defne Hukuk."
         },
         "hours": {
           "tr": "Pzt–Cum 09:30 – 18:00 (randevulu)",
           "en": "Mon–Fri 09:30 – 18:00 (by appointment)",
-          "ar": "الاثنين–الجمعة 09:30 – 18:00 (بموعد مسبق)"
+          "ar": "الاثنين–الجمعة 09:30 – 18:00 (بموعد مسبق)",
+          "de": "Mo–Fr 09:30 – 18:00 (nach Termin)",
+          "ru": "Пн–Пт 09:30 – 18:00 (по записи)"
         },
         "hoursLabel": {
           "tr": "Çalışma saatleri",
           "en": "Opening hours",
-          "ar": "ساعات العمل"
+          "ar": "ساعات العمل",
+          "de": "Öffnungszeiten",
+          "ru": "Часы работы"
         },
         "bg": "var(--mx-site-surface, #f6f7f9)",
         "yaziRenk": "var(--mx-site-text, #111318)",
@@ -2499,22 +3021,30 @@
         "title": {
           "tr": "Önce dosyanızı birlikte okuyalım",
           "en": "Let us read your file together first",
-          "ar": "لنقرأ ملفك معًا أولًا"
+          "ar": "لنقرأ ملفك معًا أولًا",
+          "de": "Lassen Sie uns zuerst Ihre Akte gemeinsam lesen",
+          "ru": "Сначала давайте вместе изучим ваше дело"
         },
         "btn1Label": {
           "tr": "Görüşme talebi",
           "en": "Request a meeting",
-          "ar": "اطلب لقاءً"
+          "ar": "اطلب لقاءً",
+          "de": "Gesprächsanfrage",
+          "ru": "Запрос на встречу"
         },
         "btn2Label": {
           "tr": "Çalışma alanları",
           "en": "Practice areas",
-          "ar": "مجالات العمل"
+          "ar": "مجالات العمل",
+          "de": "Schwerpunkte",
+          "ru": "Направления"
         },
         "description": {
           "tr": "Ön görüşme için uygun bir zaman seçin; konuyu kısaca yazmanız yeterli. Bu site yalnızca bilgilendirme amaçlıdır; reklam niteliği taşımaz, hukuki görüş yerine geçmez. İçerik kurgusaldır.",
           "en": "Choose a suitable time for an initial consultation; a short note on the matter is enough. This site is for information only; it is not an advertisement and does not replace legal advice. Content is fictional.",
-          "ar": "اختر وقتًا مناسبًا للاستشارة الأولية؛ تكفي ملاحظة قصيرة عن المسألة. هذا الموقع لأغراض إعلامية فقط؛ لا يُعدّ إعلانًا ولا يغني عن الاستشارة القانونية. المحتوى افتراضي."
+          "ar": "اختر وقتًا مناسبًا للاستشارة الأولية؛ تكفي ملاحظة قصيرة عن المسألة. هذا الموقع لأغراض إعلامية فقط؛ لا يُعدّ إعلانًا ولا يغني عن الاستشارة القانونية. المحتوى افتراضي.",
+          "de": "Wählen Sie einen passenden Zeitpunkt für das Vorgespräch; es genügt, das Thema kurz zu beschreiben. Diese Website dient nur der Information; sie ist keine Werbung und ersetzt keine Rechtsauskunft. Der Inhalt ist fiktiv.",
+          "ru": "Выберите удобное время для предварительной беседы; достаточно кратко описать тему. Этот сайт носит только информационный характер; он не является рекламой и не заменяет юридическое заключение. Содержание вымышлено."
         }
       },
       "data": [],
@@ -2547,62 +3077,90 @@
         "category_links": true,
         "callLabel": {
           "tr": "BİZİ 7/24 ARAYIN",
-          "en": "CALL US 24/7"
+          "en": "CALL US 24/7",
+          "de": "RUFEN SIE UNS 24/7 AN",
+          "ru": "ЗВОНИТЕ НАМ 24/7"
         },
         "phone": "+90 342 030 02 02",
         "followLabel": {
           "tr": "BİZİ TAKİP EDİN:",
-          "en": "FOLLOW US:"
+          "en": "FOLLOW US:",
+          "de": "FOLGEN SIE UNS:",
+          "ru": "СЛЕДИТЕ ЗА НАМИ:"
         },
         "paymentAlt": {
           "tr": "Ödeme Yöntemleri",
-          "en": "Payment Methods"
+          "en": "Payment Methods",
+          "de": "Zahlungsmethoden",
+          "ru": "Способы оплаты"
         },
         "addressTitle": {
           "tr": "MAĞAZA ADRESİ:",
-          "en": "STORE ADDRESS:"
+          "en": "STORE ADDRESS:",
+          "de": "ADRES DES GEFÄHRTS:",
+          "ru": "АДРЕС МАГАЗИНА:"
         },
         "address": {
           "tr": "Atatürk Bulvarı No: 41 Kat: 2, Şehitkamil, Gaziantep (kurgusal adres)",
           "en": "41 Ataturk Boulevard, Floor 2, Sehitkamil, Gaziantep (fictional address)",
-          "ar": "جادة أتاتورك رقم 41، الطابق 2، شهيد كامل، غازي عنتاب (عنوان افتراضي)"
+          "ar": "جادة أتاتورك رقم 41، الطابق 2، شهيد كامل، غازي عنتاب (عنوان افتراضي)",
+          "de": "Atatürk Bulvarı No: 41 Kat: 2, Şehitkamil, Gaziantep (fiktive Adresse)",
+          "ru": "Atatürk Bulvarı No: 41 Kat: 2, Шехиткамиль, Газиантеп (вымышленный адрес)"
         },
         "email": "gorusme@defnehukuk.example",
         "quickTitle": {
           "tr": "HIZLI MENÜ",
-          "en": "QUICK MENU"
+          "en": "QUICK MENU",
+          "de": "SCHNELLMENÜ",
+          "ru": "БЫСТРОЕ МЕНЮ"
         },
         "accountTitle": {
           "tr": "HESABIM",
-          "en": "MY ACCOUNT"
+          "en": "MY ACCOUNT",
+          "de": "MEIN KONTO",
+          "ru": "МОЙ АККАУНТ"
         },
         "accountlinks": {
           "tr": "Hesabım|/tr/login/|Sepetim|/tr/sepet/|İletişim|/tr/iletisim/",
-          "en": "My Account|/en/login/|My Cart|/en/sepet/|Contact|/en/iletisim/"
+          "en": "My Account|/en/login/|My Cart|/en/sepet/|Contact|/en/iletisim/",
+          "de": "Mein Konto|/tr/login/|Warenkorb|/tr/sepet/|Kontakt|/tr/iletisim/",
+          "ru": "Мой аккаунт|/tr/login/|Корзина|/tr/sepet/|Контакты|/tr/iletisim/"
         },
         "categoriesTitle": {
           "tr": "KATEGORİLER",
-          "en": "CATEGORIES"
+          "en": "CATEGORIES",
+          "de": "KATEGORIEN",
+          "ru": "КАТЕГОРИИ"
         },
         "categorylinks": {
           "tr": "Baklava|#|Kuru Meyve|#|Kuru Sebze|#",
-          "en": "Baklava|#|Dried Fruit|#|Dried Vegetables|#"
+          "en": "Baklava|#|Dried Fruit|#|Dried Vegetables|#",
+          "de": "Baklava|#|Trockenobst|#|Trockengemüse|#",
+          "ru": "Пахлава|#|Сухофрукты|#|Сушёные овощи|#"
         },
         "newsletterTitle": {
           "tr": "BÜLTEN",
-          "en": "NEWSLETTER"
+          "en": "NEWSLETTER",
+          "de": "NEWSLETTER",
+          "ru": "РАССЫЛКА"
         },
         "newsletterText": {
           "tr": "Kaydolun ve 200₺ değerinde bir kupon kazanın.",
-          "en": "Sign up and get a coupon worth 200₺."
+          "en": "Sign up and get a coupon worth 200₺.",
+          "de": "Melden Sie sich an und sichern Sie sich einen Gutschein im Wert von 200 ₺.",
+          "ru": "Зарегистрируйтесь и получите купон на 200₺."
         },
         "emailPlaceholder": {
           "tr": "E-Posta Adresinizi Giriniz...",
-          "en": "Enter your e-mail address..."
+          "en": "Enter your e-mail address...",
+          "de": "E-Mail-Adresse eingeben...",
+          "ru": "Введите адрес электронной почты..."
         },
         "rightsText": {
           "tr": "Tüm Hakları Saklıdır.",
-          "en": "All Rights Reserved."
+          "en": "All Rights Reserved.",
+          "de": "Alle Rechte vorbehalten.",
+          "ru": "Все права защищены."
         },
         "madeByHtml": "",
         "maxpages": 8,
@@ -2611,7 +3169,9 @@
         "about": {
           "tr": "Defne Hukuk demo temadır; içerik kurgusaldır ve reklam niteliği taşımaz.",
           "en": "Defne Law is a demo theme; content is fictional and not an advertisement.",
-          "ar": "دفنه للمحاماة قالب تجريبي؛ المحتوى افتراضي ولا يُعدّ إعلانًا."
+          "ar": "دفنه للمحاماة قالب تجريبي؛ المحتوى افتراضي ولا يُعدّ إعلانًا.",
+          "de": "Defne Hukuk ist ein Demo-Theme; der Inhalt ist fiktiv und keine Werbung.",
+          "ru": "Defne Hukuk — это демо-тема; контент вымышленный и не является рекламой."
         },
         "social": [],
         "legal": [
@@ -2619,7 +3179,9 @@
             "name": {
               "tr": "KVKK",
               "en": "Privacy (KVKK)",
-              "ar": "حماية البيانات"
+              "ar": "حماية البيانات",
+              "de": "Datenschutz (KVKK)",
+              "ru": "Закон о защите данных (KVKK)"
             },
             "href": "kisiselveriler"
           },
@@ -2627,7 +3189,9 @@
             "name": {
               "tr": "Gizlilik",
               "en": "Privacy policy",
-              "ar": "سياسة الخصوصية"
+              "ar": "سياسة الخصوصية",
+              "de": "Datenschutz",
+              "ru": "Конфиденциальность"
             },
             "href": "gizlilikpolitikasi"
           },
@@ -2635,7 +3199,9 @@
             "name": {
               "tr": "Yasal uyarı",
               "en": "Legal notice",
-              "ar": "إشعار قانوني"
+              "ar": "إشعار قانوني",
+              "de": "Rechtlicher Hinweis",
+              "ru": "Правовое уведомление"
             },
             "href": "yasaluyari"
           }
@@ -2643,24 +3209,32 @@
         "nlTitle": {
           "tr": "Haberdar olun",
           "en": "Stay informed",
-          "ar": "ابقَ على اطلاع"
+          "ar": "ابقَ على اطلاع",
+          "de": "Bleiben Sie informiert",
+          "ru": "Будьте в курсе"
         },
         "nlText": {
           "tr": "Yeni duyurular için e-posta bırakın. Bu demo sitede veri saklanmaz.",
           "en": "Leave your e-mail for new announcements. No data is stored on this demo site.",
-          "ar": "اترك بريدك الإلكتروني للإعلانات الجديدة. لا تُحفظ أي بيانات في هذا الموقع التجريبي."
+          "ar": "اترك بريدك الإلكتروني للإعلانات الجديدة. لا تُحفظ أي بيانات في هذا الموقع التجريبي.",
+          "de": "Hinterlassen Sie Ihre E-Mail für neue Ankündigungen. Auf dieser Demo-Website werden keine Daten gespeichert.",
+          "ru": "Оставьте e-mail, чтобы получать новые анонсы. На этом демо-сайте данные не сохраняются."
         },
         "nlKvkk": {
           "tr": "E-postanız yalnızca duyuru göndermek için kullanılır; dilediğiniz an listeden çıkabilirsiniz.",
           "en": "Your e-mail is used only to send announcements; you can leave the list at any time.",
-          "ar": "يُستخدم بريدك الإلكتروني لإرسال الإعلانات فقط، ويمكنك إلغاء الاشتراك في أي وقت."
+          "ar": "يُستخدم بريدك الإلكتروني لإرسال الإعلانات فقط، ويمكنك إلغاء الاشتراك في أي وقت.",
+          "de": "Ihre E-Mail-Adresse wird nur für den Versand von Ankündigungen verwendet; Sie können sich jederzeit abmelden.",
+          "ru": "Ваш e-mail используется только для рассылки объявлений; вы можете отписаться в любой момент."
         },
         "services": [
           {
             "name": {
               "tr": "Hizmetlerimiz",
               "en": "Our services",
-              "ar": "خدماتنا"
+              "ar": "خدماتنا",
+              "de": "Unsere Dienste",
+              "ru": "Наши услуги"
             },
             "href": "hizmetler"
           },
@@ -2668,7 +3242,9 @@
             "name": {
               "tr": "Hakkımızda",
               "en": "About us",
-              "ar": "من نحن"
+              "ar": "من نحن",
+              "de": "Über uns",
+              "ru": "О нас"
             },
             "href": "hakkimizda"
           },
@@ -2676,7 +3252,9 @@
             "name": {
               "tr": "Referanslar",
               "en": "References",
-              "ar": "المرجعيات"
+              "ar": "المرجعيات",
+              "de": "Referenzen",
+              "ru": "Референсы"
             },
             "href": "referanslar"
           }
@@ -2741,7 +3319,9 @@
         "cta": {
           "tr": "Ön görüşme",
           "en": "Consultation",
-          "ar": "استشارة"
+          "ar": "استشارة",
+          "de": "Beratung",
+          "ru": "Консультация"
         }
       },
       "data": [],
@@ -2808,12 +3388,16 @@
         "about": {
           "tr": "Defne Hukuk demo temadır; içerik kurgusaldır ve reklam niteliği taşımaz.",
           "en": "Defne Law is a demo theme; content is fictional and not an advertisement.",
-          "ar": "دفنه للمحاماة قالب تجريبي؛ المحتوى افتراضي ولا يُعدّ إعلانًا."
+          "ar": "دفنه للمحاماة قالب تجريبي؛ المحتوى افتراضي ولا يُعدّ إعلانًا.",
+          "de": "Defne Hukuk ist ein Demo-Theme; der Inhalt ist fiktiv und keine Werbung.",
+          "ru": "Defne Hukuk — это демо-тема; контент вымышленный и не является рекламой."
         },
         "address": {
           "tr": "Atatürk Bulvarı No: 41 Kat: 2, Şehitkamil, Gaziantep (kurgusal adres)",
           "en": "41 Ataturk Boulevard, Floor 2, Sehitkamil, Gaziantep (fictional address)",
-          "ar": "جادة أتاتورك رقم 41، الطابق 2، شهيد كامل، غازي عنتاب (عنوان افتراضي)"
+          "ar": "جادة أتاتورك رقم 41، الطابق 2، شهيد كامل، غازي عنتاب (عنوان افتراضي)",
+          "de": "Atatürk Bulvarı No: 41 Kat: 2, Şehitkamil, Gaziantep (fiktive Adresse)",
+          "ru": "Atatürk Bulvarı No: 41 Kat: 2, Шехиткамиль, Газиантеп (вымышленный адрес)"
         },
         "phone": "+90 342 030 02 02",
         "email": "gorusme@defnehukuk.example",
@@ -2823,7 +3407,9 @@
             "name": {
               "tr": "KVKK",
               "en": "Privacy (KVKK)",
-              "ar": "حماية البيانات"
+              "ar": "حماية البيانات",
+              "de": "Datenschutz (KVKK)",
+              "ru": "Закон о защите данных (KVKK)"
             },
             "href": "kisiselveriler"
           },
@@ -2831,7 +3417,9 @@
             "name": {
               "tr": "Gizlilik",
               "en": "Privacy policy",
-              "ar": "سياسة الخصوصية"
+              "ar": "سياسة الخصوصية",
+              "de": "Datenschutz",
+              "ru": "Конфиденциальность"
             },
             "href": "gizlilikpolitikasi"
           },
@@ -2839,7 +3427,9 @@
             "name": {
               "tr": "Yasal uyarı",
               "en": "Legal notice",
-              "ar": "إشعار قانوني"
+              "ar": "إشعار قانوني",
+              "de": "Rechtlicher Hinweis",
+              "ru": "Правовое уведомление"
             },
             "href": "yasaluyari"
           }
@@ -2847,24 +3437,32 @@
         "nlTitle": {
           "tr": "Haberdar olun",
           "en": "Stay informed",
-          "ar": "ابقَ على اطلاع"
+          "ar": "ابقَ على اطلاع",
+          "de": "Bleiben Sie informiert",
+          "ru": "Будьте в курсе"
         },
         "nlText": {
           "tr": "Yeni duyurular için e-posta bırakın. Bu demo sitede veri saklanmaz.",
           "en": "Leave your e-mail for new announcements. No data is stored on this demo site.",
-          "ar": "اترك بريدك الإلكتروني للإعلانات الجديدة. لا تُحفظ أي بيانات في هذا الموقع التجريبي."
+          "ar": "اترك بريدك الإلكتروني للإعلانات الجديدة. لا تُحفظ أي بيانات في هذا الموقع التجريبي.",
+          "de": "Hinterlassen Sie Ihre E-Mail für neue Ankündigungen. Auf dieser Demo-Website werden keine Daten gespeichert.",
+          "ru": "Оставьте e-mail, чтобы получать новые анонсы. На этом демо-сайте данные не сохраняются."
         },
         "nlKvkk": {
           "tr": "E-postanız yalnızca duyuru göndermek için kullanılır; dilediğiniz an listeden çıkabilirsiniz.",
           "en": "Your e-mail is used only to send announcements; you can leave the list at any time.",
-          "ar": "يُستخدم بريدك الإلكتروني لإرسال الإعلانات فقط، ويمكنك إلغاء الاشتراك في أي وقت."
+          "ar": "يُستخدم بريدك الإلكتروني لإرسال الإعلانات فقط، ويمكنك إلغاء الاشتراك في أي وقت.",
+          "de": "Ihre E-Mail-Adresse wird nur für den Versand von Ankündigungen verwendet; Sie können sich jederzeit abmelden.",
+          "ru": "Ваш e-mail используется только для рассылки объявлений; вы можете отписаться в любой момент."
         },
         "services": [
           {
             "name": {
               "tr": "Hizmetlerimiz",
               "en": "Our services",
-              "ar": "خدماتنا"
+              "ar": "خدماتنا",
+              "de": "Unsere Dienste",
+              "ru": "Наши услуги"
             },
             "href": "hizmetler"
           },
@@ -2872,7 +3470,9 @@
             "name": {
               "tr": "Hakkımızda",
               "en": "About us",
-              "ar": "من نحن"
+              "ar": "من نحن",
+              "de": "Über uns",
+              "ru": "О нас"
             },
             "href": "hakkimizda"
           }

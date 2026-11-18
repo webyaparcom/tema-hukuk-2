@@ -3,17 +3,23 @@
   "name": {
     "tr": "Çalışma alanları",
     "en": "Practice areas",
-    "ar": "مجالات العمل"
+    "ar": "مجالات العمل",
+    "de": "Schwerpunkte",
+    "ru": "Направления"
   },
   "description": {
     "tr": "Her dosya kendi koşullarıyla değerlendirilir; aşağıdaki başlıklar bilgilendirme amaçlıdır.",
     "en": "Each matter is assessed on its own facts; the headings below are for information only.",
-    "ar": "يُقيَّم كل ملف وفق ظروفه؛ العناوين أدناه لأغراض إعلامية فقط."
+    "ar": "يُقيَّم كل ملف وفق ظروفه؛ العناوين أدناه لأغراض إعلامية فقط.",
+    "de": "Jede Akte wird nach ihren eigenen Bedingungen beurteilt; die folgenden Überschriften dienen nur der Information.",
+    "ru": "Каждое дело рассматривается по его собственным условиям; приведённые ниже разделы носят информационный характер."
   },
   "keyword": {
     "tr": "Çalışma alanları",
     "en": "Practice areas",
-    "ar": "مجالات العمل"
+    "ar": "مجالات العمل",
+    "de": "Schwerpunkte",
+    "ru": "Направления"
   },
   "path": "hizmetler",
   "icon": "work",
@@ -33,7 +39,9 @@
   "title": {
     "tr": "Çalışma alanları",
     "en": "Practice areas",
-    "ar": "مجالات العمل"
+    "ar": "مجالات العمل",
+    "de": "Schwerpunkte",
+    "ru": "Направления"
   },
   "date": "2026-11-16T11:05:13.738Z",
   "update": "2026-11-16T13:37:37.070Z"

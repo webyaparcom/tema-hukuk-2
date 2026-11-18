@@ -3,17 +3,23 @@
   "name": {
     "tr": "Vizyon",
     "en": "Vision",
-    "ar": "الرؤية"
+    "ar": "الرؤية",
+    "de": "Vision",
+    "ru": "Видение"
   },
   "description": {
     "tr": "Vizyonumuz",
     "en": "Our vision",
-    "ar": "رؤيتنا"
+    "ar": "رؤيتنا",
+    "de": "Unsere Vision",
+    "ru": "Наше видение"
   },
   "keyword": {
     "tr": "Vizyon",
     "en": "vision, our vision, goals",
-    "ar": "الرؤية, رؤيتنا, الأهداف"
+    "ar": "الرؤية, رؤيتنا, الأهداف",
+    "de": "Vision",
+    "ru": "Видение"
   },
   "path": "vizyon",
   "icon": "visibility",
@@ -29,12 +35,16 @@
   "text": {
     "tr": "<h2>Vizyonumuz</h2>\n<p>Aile ve miras uyuşmazlıklarında sakin ve özenli danışmanlığın yerel adresi olmak.</p>",
     "en": "<h2>Our vision</h2>\n<p>To be the local address for calm, careful counsel in family and inheritance disputes.</p>",
-    "ar": "<h2>رؤيتنا</h2>\n<p>أن نكون العنوان المحلي للاستشارة الهادئة والمتأنية في نزاعات الأسرة والميراث.</p>"
+    "ar": "<h2>رؤيتنا</h2>\n<p>أن نكون العنوان المحلي للاستشارة الهادئة والمتأنية في نزاعات الأسرة والميراث.</p>",
+    "de": "<h2>Unsere Vision</h2>\n<p>Der lokale Ansprechpartner für ruhige und sorgfältige Beratung in Familien- und Erbstreitigkeiten zu sein.</p>",
+    "ru": "<h2>Наша миссия</h2>\n<p>Быть локальным адресом для спокойной и внимательной консультации в спорах о семье и наследстве.</p>"
   },
   "title": {
     "tr": "Vizyon",
     "en": "Vision",
-    "ar": "الرؤية"
+    "ar": "الرؤية",
+    "de": "Vision",
+    "ru": "Видение"
   },
   "date": "2026-11-16T11:05:13.547Z",
   "update": "2026-11-16T13:37:37.094Z",

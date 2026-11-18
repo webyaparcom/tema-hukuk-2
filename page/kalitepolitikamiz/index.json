@@ -3,17 +3,23 @@
   "name": {
     "tr": "Kalite Politikamız",
     "en": "Quality Policy",
-    "ar": "سياسة الجودة"
+    "ar": "سياسة الجودة",
+    "de": "Qualitätspolitik",
+    "ru": "Политика качества"
   },
   "description": {
     "tr": "Kalite politikamız",
     "en": "Our quality policy",
-    "ar": "سياسة الجودة لدينا"
+    "ar": "سياسة الجودة لدينا",
+    "de": "Unsere Qualitätspolitik",
+    "ru": "Наша политика качества"
   },
   "keyword": {
     "tr": "Kalite Politikamız",
     "en": "quality policy, quality, continuous improvement",
-    "ar": "سياسة الجودة, الجودة, التحسين المستمر"
+    "ar": "سياسة الجودة, الجودة, التحسين المستمر",
+    "de": "Qualitätspolitik",
+    "ru": "Политика качества"
   },
   "path": "kalitepolitikamiz",
   "icon": "verified",
@@ -29,12 +35,16 @@
   "text": {
     "tr": "<h2>Kalite Politikamız</h2>\n<p>Her dosyada yazılı yol haritası, düzenli bilgilendirme ve mesleki sır yükümlülüğü.</p>",
     "en": "<h2>Our quality policy</h2>\n<p>A written roadmap, regular updates and professional secrecy on every file.</p>",
-    "ar": "<h2>سياسة الجودة لدينا</h2>\n<p>خارطة طريق مكتوبة وتحديثات منتظمة وواجب كتمان السر المهني في كل ملف.</p>"
+    "ar": "<h2>سياسة الجودة لدينا</h2>\n<p>خارطة طريق مكتوبة وتحديثات منتظمة وواجب كتمان السر المهني في كل ملف.</p>",
+    "de": "<h2>Unsere Qualitätspolitik</h2>\n<p>Bei jeder Akte: schriftlicher Fahrplan, regelmäßige Informationen und Schweigepflicht.</p>",
+    "ru": "<h2>Наша политика качества</h2>\n<p>В каждом деле: письменный план, регулярные обновления и профессиональная тайна.</p>"
   },
   "title": {
     "tr": "Kalite Politikamız",
     "en": "Quality Policy",
-    "ar": "سياسة الجودة"
+    "ar": "سياسة الجودة",
+    "de": "Qualitätspolitik",
+    "ru": "Политика качества"
   },
   "date": "2026-11-16T11:05:13.547Z",
   "update": "2026-11-16T13:37:37.095Z",
